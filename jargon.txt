@@ -1,8 +1,8 @@
-#======= THIS IS THE JARGON FILE, VERSION 4.4.5, 04 OCT 2003 =======#
+#======= THIS IS THE JARGON FILE, VERSION 4.4.6, 25 OCT 2003 =======#
 
 The Jargon File
 
-(version 4.4.5)
+(version 4.4.6)
      ________________________________________________________________
 
    Table of Contents
@@ -88,8 +88,8 @@ Welcome to the Jargon File
    its  proper  use  to  which many hackers are quite strongly attached.
    Please  extend  the  courtesy  of  proper citation when you quote the
    File,  ideally with a version number, as it will change and grow over
-   time.  (Examples of appropriate citation form: "Jargon File 4.4.5" or
-   "The on-line hacker Jargon File, version 4.4.5, 4 Oct 2003".)
+   time.  (Examples of appropriate citation form: "Jargon File 4.4.6" or
+   "The on-line hacker Jargon File, version 4.4.6, 25 Oct 2003".)
 
    The  Jargon File is a common heritage of the hacker culture. Over the
    years  a  number of individuals have volunteered considerable time to
@@ -127,8 +127,12 @@ Welcome to the Jargon File
    special  characters.  This test page lists them so you can check what
    your browser does with each one.
    glyph description
+   a     greek character alpha
+   k     greek character kappa
    l     greek character lambda
    L     greek character Lambda
+   n     greek character nu
+   o     greek character omicron
    p     greek character pi
    £     pound sterling
          left angle bracket
@@ -151,6 +155,10 @@ Welcome to the Jargon File
    @     schwa
    ´     acute accent
    ·     medial dot
+
+   We  normally  test  with  the latest build of Mozilla. If some of the
+   special  characters  above  look  wrong, your browser has bugs in its
+   standards-conformance and you should replace it.
 
 Introduction
 
@@ -633,6 +641,10 @@ Chapter 3. Revision History
    4.4.5 4 Oct 2003 37482 235858 1634767 2299
 
    Minor updates. Four new entries and a better original-bug picture.
+   4.4.6 25 Oct 2003 37560 236406 1638454 2302
+
+   Added  glider  illustration.  Amended  FUD  entry  pursuent  to SCO's
+   attempt to abuse it.
 
    Version    numbering:    Version    numbers   should   be   read   as
    major.minor.revision. Major version 1 is reserved for the `old' (ITS)
@@ -885,8 +897,8 @@ Overgeneralization
    Hebrew-style `frobbotzim' for the plural of `frobbozz' (see frobnitz)
    and `Unices' and `Twenices' (rather than `Unixes' and `Twenexes'; see
    Unix,  TWENEX in main text). But note that `Twenexen' was never used,
-   and  `Unixen' was not sighted in the wild until the year 2000, thirty
-   years  after  it  might  logically  have  come  into use; it has been
+   and  `Unixen'  was  seldom  sighted  in the wild until the year 2000,
+   thirty years after it might logically have come into use; it has been
    suggested  that  this  is  because `-ix' and `-ex' are Latin singular
    endings  that  attract  a  Latinate  plural. Among Perl hackers it is
    reported  that  `comma'  and  `semicolon'  pluralize as `commata' and
@@ -2152,8 +2164,8 @@ Glossary
         break-even point
         breath-of-life packet
         breedle
-        brick
         Breidbart Index
+        brick
         bricktext
         bring X to its knees
         brittle
@@ -3175,6 +3187,7 @@ Glossary
         main loop
         mainframe
         mainsleaze
+        malware
         man page
         management
         mandelbug
@@ -4042,6 +4055,7 @@ Glossary
         twirling baton
         two pi
         two-to-the-N
+        tyop
 
    U
 
@@ -4113,6 +4127,7 @@ Glossary
         virtual shredder
         virus
         visionary
+        Visual Fred
         VMS
         voice
         voice-net
@@ -4723,7 +4738,7 @@ Rough stone steps lead up the dome.
    system  that  can  see  as well as a human) and `The Natural Language
    Problem'  (building  a system that can understand and speak a natural
    language as well as a human). These may appear to be modular, but all
-   attempts  so far (2002) to solve them have foundered on the amount of
+   attempts  so far (2003) to solve them have foundered on the amount of
    context information and `intelligence' they seem to require. See also
    {gedanken}.
 
@@ -5682,8 +5697,8 @@ B
    break-even point
    breath-of-life packet
    breedle
-   brick
    Breidbart Index
+   brick
    bricktext
    bring X to its knees
    brittle
@@ -5820,7 +5835,10 @@ B
    various  Cabals  with dark nefarious objectives beginning with taking
    over  the Usenet or Internet. These paranoias were later satirized in
    ways  that took on a life of their own. See {Eric Conspiracy} for one
-   example.
+   example.  Part  of the background for this kind of humor is that many
+   hackers  cultivate  a  fondness for conspiracy theory considered as a
+   kind  of  surrealist  art; see the bibliography entry om Illuminatus!
+   for the novel that launched this trend.
 
    See {NANA} for the subsequent history of "the Cabal".
 
@@ -6091,15 +6109,15 @@ B
    the account of user me on barbox.
 
    In  the  bad  old days of not so long ago, before autorouting mailers
-   became  commonplace,  people  often published compound bang addresses
-   using  the { } convention (see {glob}) to give paths from several big
-   machines,  in the hopes that one's correspondent might be able to get
-   mail  to  one  of  them  reliably  (example:  ...!{seismo,  ut-sally,
-   ihnp4!rice!beta!gamma!me}).  Bang  paths  of  8  to  10 hops were not
-   uncommon.   Late-night  dial-up  UUCP  links  would  cause  week-long
+   and Internet became commonplace, people often published compound bang
+   addresses  using  the  { } convention (see {glob}) to give paths from
+   several  big machines, in the hopes that one's correspondent might be
+   able  to  get  mail  to  one  of them reliably (example: ...!{seismo,
+   ut-sally, ihnp4!rice!beta!gamma!me}). Bang paths of 8 to 10 hops were
+   not  uncommon.  Late-night  dial-up  UUCP links would cause week-long
    transmission   times.   Bang   paths  were  often  selected  by  both
-   transmission  time and reliability, as messages would often get lost.
-   See {the network} and {sitename}.
+   transmission time and reliability, as messages would not infrequently
+   get lost. See {the network} and {sitename}.
 
 :banner: n.
 
@@ -6232,9 +6250,11 @@ B
    [common]  Feature-encrusted;  complex;  gaudy;  verging on excessive.
    Said  of  hardware  or  (esp.) software designs, this has many of the
    connotations  of  {elephantine}  or {monstrosity} but is less extreme
-   and  not  pejorative  in  itself.  "Metafont  even  has  features  to
-   introduce  random  variations  to  its letterform output. Now that is
-   baroque!" See also {rococo}.
+   and  not pejorative in itself. In the absence of other, more negative
+   descriptions this term suggests that the software is trembling on the
+   edge  of  bad  taste but has not quite tipped over into it. "Metafont
+   even  has  features  to introduce random variations to its letterform
+   output. Now that is baroque!" See also {rococo}.
 
 :BASIC: /bay'·sic/, n.
 
@@ -7186,8 +7206,8 @@ bits     0001  0011  0101  0111  1001  1011  1101  1111
    lamp  wiring  was beginning to be a problem as far back as transistor
    machines.  But  the  most fundamental fact is that there are very few
    signals  slow  enough to blink an LED these days! With slow CPUs, you
-   could  watch  the  bus  register  or instruction counter tick, but at
-   33/66/150MHz it's all a blur.
+   could watch the bus register or instruction counter tick, but even at
+   33/66/150MHz (let alone gigahertz speeds) it's all a blur.
 
    Despite  this, a couple of relatively recent computer designs of note
    have featured programmable blinkenlights that were added just because
@@ -8224,17 +8244,6 @@ bits     0001  0011  0101  0111  1001  1011  1101  1111
 
    See {feep}.
 
-:brick: n.
-
-   A  piece  of  equipment that has been programmed or configured into a
-   {hung},  {wedged},unusable  state.  Especially  used to describe what
-   happens  to  devices like routers or PDAs that run from firmware when
-   the  firmware image is damaged or its settings are somehow patched to
-   impossible  values.  This  term  usually implies irreversibility, but
-   equipment  can  sometimes  be unbricked by performing a hard reset or
-   some  other drastic operation. Sometimes verbed: "Yeah, I bricked the
-   router because I forgot about adding in the new access-list.".
-
 :Breidbart Index: /bri:d´bart ind@ks/
 
    A  measurement  of  the severity of spam invented by long-time hacker
@@ -8257,6 +8266,22 @@ bits     0001  0011  0101  0111  1001  1011  1101  1111
    accumulate  over multiple authors. For example, the "Make Money Fast"
    pyramid  scheme  exceeded  a  BI  of  20  a long time ago, and is now
    considered "cancel on sight".
+
+:brick: n.
+
+   1. A piece of equipment that has been programmed or configured into a
+   {hung},  {wedged},unusable  state.  Especially  used to describe what
+   happens  to  devices like routers or PDAs that run from firmware when
+   the  firmware image is damaged or its settings are somehow patched to
+   impossible  values.  This  term  usually implies irreversibility, but
+   equipment  can  sometimes  be unbricked by performing a hard reset or
+   some  other drastic operation. Sometimes verbed: "Yeah, I bricked the
+   router because I forgot about adding in the new access-list.".
+
+   2. An outboard power transformer of the kind associated with laptops,
+   modems,  routers and other small computing appliances, especially one
+   of  the  modern type with cords on both ends, as opposed to the older
+   and obnoxious type that plug directly into wall or barrier strip.
 
 :bricktext:
 
@@ -8573,7 +8598,7 @@ bits     0001  0011  0101  0111  1001  1011  1101  1111
 
    [bugpic-color.jpg]
 
-   The `original bug'
+   The `original bug' (the caption date is incorrect)
 
    Indeed,  the  use  of  bug  to  mean an industrial defect was already
    established  in  Thomas Edison's time, and a more specific and rather
@@ -9121,6 +9146,10 @@ C
    C++,  there  is a much smaller and cleaner language struggling to get
    out."  [Many  hackers  would  now  add  "Yes, and it's called {Java}"
    --ESR]
+
+   [fortran.png]
+
+   Nowadays we say this of C++.
 
 :calculator: n.
 
@@ -11609,7 +11638,7 @@ D
    what ITS called a {dragon}; the prototype was a program called DAEMON
    that automatically made tape backups of the file system. Although the
    meaning  and  the  pronunciation have drifted, we think this glossary
-   reflects current (2000) usage.
+   reflects current (2003) usage.
 
 :daemon book: n.
 
@@ -14674,10 +14703,10 @@ F
    consisting only of IBM PCs and compatibles, FidoNet now includes such
    diverse  machines as Apple ][s, Ataris, Amigas, and Unix systems. For
    years  FidoNet  actually  grew  faster than Usenet, but the advent of
-   cheap  Internet  access  probably  means  its  days  are numbered. In
-   mid-2001  Fidonet  has approximately 15K nodes, down from 38K in 1996
-   --  and  most  of those are probably single-user machines rather than
-   the thriving BBSes of yore.
+   cheap Internet access probably means its days are numbered. FidoNet's
+   site  count  has  dropped from 38K nodes in 1996 through 15K nodes in
+   2001  to  10K  nodes  in  late  2003,  and most of those are probably
+   single-user machines rather than the thriving BBSes of yore.
 
 :field circus: n.
 
@@ -16063,6 +16092,16 @@ F
    frequently  with  {Microsoft}, and has become generalized to refer to
    any kind of disinformation used as a competitive weapon.
 
+   [In  2003,  SCO  sued  IBM  in  an  action which, among other things,
+   alleged  SCO's  proprietary  control of {Linux}. The SCO suit rapidly
+   became infamous for the number and magnitude of falsehoods alleged in
+   SCO's  filings.  In October 2003, SCO's lawyers filed a memorandum in
+   which  they  actually  had the temerity to link to the web version of
+   this  entry  in  furtherance of their claims. While we appreciate the
+   complement of being treated as an authority, we can return it only by
+   observing that SCO has become a nest of liars and thieves compared to
+   which IBM at its historic worst looked positively angelic. --ESR]
+
 :FUD wars: /fuhd worz/, n.
 
    1,  [from  {FUD}]  Historically,  political  posturing  engaged in by
@@ -16618,11 +16657,13 @@ G
 
 :Get a real computer!: imp.
 
-   Typical  hacker  response  to  news  that  somebody is having trouble
-   getting  work done on a system that (a) is single-tasking, (b) has no
-   hard  disk,  or  (c)  has an address space smaller than 16 megabytes.
-   This is as of early 1996; note that the threshold for `real computer'
-   rises with time. See {bitty box} and {toy}.
+   In  1996  when  this  entry first entered the File, it was the ypical
+   hacker  response to news that somebody is having trouble getting work
+   done  on  a system that (a) was single-tasking, (b) had no hard disk,
+   or  (c)  had  an  address  space  smaller  than 16 megabytes. In 2003
+   anything  less  powerful  than a 500MHz Pentium with a multi-gigabyte
+   hard  disk would probably be similarly written off. The threshold for
+   `real computer' rises with time. See {bitty box} and {toy}.
 
 :GandhiCon:
 
@@ -17563,7 +17604,7 @@ G
    threatening  lawsuits  or prosecution. GWFs have been known to assert
    that  they  are  being attacked from 127.0.0.1, and that their ISP is
    criminally  negligent  for  failing  to block these attacks. "GWF" is
-   used  similarly to {id10t error} and {PEBKAC} to flag trouble tickets
+   used  similarly to {ID10T error} and {PEBKAC} to flag trouble tickets
    opened by such users.
 
 H
@@ -18716,7 +18757,7 @@ H
 
    Great  holy  wars of the past have included {ITS} vs.: {Unix}, {Unix}
    vs.:  {VMS},  {BSD}  Unix  vs.: System V, {C} vs.: {Pascal}, {C} vs.:
-   FORTRAN,  etc. In the year 2000, popular favorites of the day are KDE
+   FORTRAN,  etc. In the year 2003, popular favorites of the day are KDE
    vs,  GNOME,  vim  vs.  elvis,  Linux  vs.  [Free|Net|Open]BSD.  Hardy
    perennials  include  {EMACS}  vs.:  {vi},  my  personal computer vs.:
    everyone  else's  personal  computer,  ad nauseam. The characteristic
@@ -19067,7 +19108,8 @@ I
    to  release  open-source  software  through its AlphaWorks group, and
    began  shipping  {Linux}  systems  and  building  ties  to  the Linux
    community.  To  the  astonishment  of  all  parties, IBM emerged as a
-   staunch friend of the hacker community and {open source} development.
+   staunch friend of the hacker community and {open source} development,
+   with ironic consequences noted in the {FUD} entry.
 
    This  lexicon includes a number of entries attributed to `IBM'; these
    derive  from some rampantly unofficial jargon lists circulated within
@@ -19093,7 +19135,7 @@ I
    even  literally  kill  the  intruder).  Hence,  icebreaker: a program
    designed for cracking security on a system.
 
-   Neither  term is in serious use yet as of late 2002, but many hackers
+   Neither  term is in serious use yet as of late 2003, but many hackers
    find  the  metaphor  attractive, and each may develop a denotation in
    the  future. In the meantime, the speculative usage could be confused
    with `ICE', an acronym for "in-circuit emulator".
@@ -19814,7 +19856,7 @@ J
    performance  issues,  and  some notorious deficiencies in some of the
    standard  toolkits  (AWT  in  particular).  {Microsoft}'s  determined
    attempts  to  corrupt the language (which it rightly sees as a threat
-   to  its  OS  monopoly)  have not helped. As of 2002, these issues are
+   to  its  OS  monopoly)  have not helped. As of 2003, these issues are
    still in the process of being resolved.
 
    Despite  many  attractive features and a good design, it is difficult
@@ -20885,7 +20927,15 @@ L
    mathematical  analysis of this game (most notably Bill Gosper at MIT,
    who even implemented life in {TECO}!). When a hacker mentions `life',
    he  is  much  more  likely  to  mean this game than the magazine, the
-   breakfast cereal, or the human state of existence.
+   breakfast cereal, or the human state of existence. Many web resources
+   are  availalable  starting  from  the Open Directory page of Life The
+   Life  Lexicon  is  a  good  indicator  of  what  makes  the  game  so
+   fascinating.
+
+   [glidergun.png]
+
+   A  glider gun, possibly the best known of the quasi-organic phenomena
+   in the Game of Life.
 
    2. The opposite of {Usenet}. As in "{Get a life!}"
 
@@ -21056,9 +21106,9 @@ L
    But the Free Software Foundation didn't produce the kernel to go with
    that  toolset  until 1999, which was too late. Other, similar efforts
    like  FreeBSD  and  NetBSD have been technically successful but never
-   caught  fire the way Linux has; as this is written in 2002, Linux has
+   caught  fire the way Linux has; as this is written in 2003, Linux has
    effectively  swallowed  all  proprietary Unixes except Solaris and is
-   seriously  challenging  Microsoft. It has already captured 37% of the
+   seriously  challenging  Microsoft. It has already captured 41% of the
    Internet-server market and over 25% of general business servers.
 
    An  earlier  version  of  this  entry  opined  "The secret of Linux's
@@ -21503,6 +21553,7 @@ M
    main loop
    mainframe
    mainsleaze
+   malware
    man page
    management
    mandelbug
@@ -21917,6 +21968,12 @@ M
    their  own  mailservers,  and a {pink contract}. Almost impossible to
    get shut down.
 
+:malware: n.
+
+   [Common]  Malicious software. Software intended to cause consequences
+   the  unwitting  user  would not choose; especially used of {virus} or
+   {Trojan horse} software.
+
 :man page: n.
 
    A  page  from the Unix Programmer's Manual, documenting one of Unix's
@@ -22232,7 +22289,7 @@ M
 
 :memetics: /me·met´iks/, n.
 
-   [from  {meme}] The study of memes. As of early 1999, this is still an
+   [from  {meme}] The study of memes. As of early 2003, this is still an
    extremely  informal  and speculative endeavor, though the first steps
    towards  at least statistical rigor have been made by H. Keith Henson
    and  others.  Memetics  is  a  popular  topic  for  speculation among
@@ -31384,6 +31441,7 @@ T
    twirling baton
    two pi
    two-to-the-N
+   tyop
 
 :T: /T/
 
@@ -33107,6 +33165,11 @@ Q: Should I include quotations after my reply?
    2-to-the-N  things  to  do  before  I can go out for lunch" means you
    probably won't show up.
 
+:tyop: n.
+
+   [USENET]  A  deliberate typo for `typo'. Used in satirical reference.
+   "There's a tyop in your posting". Compare {grilf}, {hing}.
+
 U
 
    u-
@@ -33608,6 +33671,7 @@ V
    virtual shredder
    virus
    visionary
+   Visual Fred
    VMS
    voice
    voice-net
@@ -34035,6 +34099,19 @@ V
    2.  [IBM]  One  who reads the outside literature. At IBM, apparently,
    such a penchant is viewed with awe and wonder.
 
+:Visual Fred: n.
+
+   Pejorative   hackerism   for   VB.NET  (Visual  Basic  for  the  .NET
+   framework).  VB.NET  has  been  marketed  by  Microsoft as an updated
+   version  of  the  previous  Visual  Basic  on its .NET framework, but
+   VB.NET  is  really just C# with a slightly different syntax and fewer
+   libraries.  Migrating  existing  code  from Visual Basic to VB.NET is
+   generally   impractical   because   VB.NET  has  a  large  number  of
+   unnecessary  incompatibilities  with  Visual  Basic. Since VB.NET has
+   essentially   nothing   to   do   with  Visual  Basic,  a  well-known
+   ex-Microserf suggested that VB.NET should have a completely different
+   name -- Visual Fred. This rapidly caught on.
+
 :VMS: /V·M·S/, n.
 
    {DEC}'s  proprietary operating system for its {VAX} minicomputer; one
@@ -34068,7 +34145,7 @@ V
 
 :voodoo programming: n.
 
-   [from George Bush's "voodoo economics"]
+   [from George Bush Sr.'s "voodoo economics"]
 
    1.  The  use  by guess or cookbook of an {obscure} or {hairy} system,
    feature,  or  algorithm  that  one  does  not  truly  understand. The
@@ -35711,10 +35788,11 @@ Y
    The  character gamma (extended SAIL ASCII 0001001), which with a loop
    in its tail looks like a little fish swimming down the page. The term
    is  actually  the  name  of  a Chinese dish in which a fish is cooked
-   whole (not {parse}d) and covered with Yu-Shiang (or Yu-Hsiang) sauce.
-   Usage:  primarily  by  people  on  the  MIT LISP Machine, which could
-   display  this  character  on  the screen. Tends to elicit incredulity
-   from people who hear about it second-hand.
+   whole  (not {parse}d) and covered with Yu-Shiang (or Yu-Hsiang, or in
+   modern  Pinyin  transliteration  yuxiang)  sauce. Usage: primarily by
+   people on the MIT LISP Machine, which could display this character on
+   the screen. Tends to elicit incredulity from people who hear about it
+   second-hand.
 
    Yu  Shiang  Whole  Fish  is alive and well in Unicode as U+0263 LATIN
    SMALL  LETTER GAMMA (as opposed to the actual Greek letter at U+03B3,
