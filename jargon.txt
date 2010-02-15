@@ -1,8 +1,8 @@
-#======= THIS IS THE JARGON FILE, VERSION 4.4.4, 14 AUG 2003 =======#
+#======= THIS IS THE JARGON FILE, VERSION 4.4.5, 04 OCT 2003 =======#
 
 The Jargon File
 
-(version 4.4.4)
+(version 4.4.5)
      ________________________________________________________________
 
    Table of Contents
@@ -88,8 +88,8 @@ Welcome to the Jargon File
    its  proper  use  to  which many hackers are quite strongly attached.
    Please  extend  the  courtesy  of  proper citation when you quote the
    File,  ideally with a version number, as it will change and grow over
-   time.  (Examples of appropriate citation form: "Jargon File 4.4.4" or
-   "The on-line hacker Jargon File, version 4.4.4, 14 Aug 2003".)
+   time.  (Examples of appropriate citation form: "Jargon File 4.4.5" or
+   "The on-line hacker Jargon File, version 4.4.5, 4 Oct 2003".)
 
    The  Jargon File is a common heritage of the hacker culture. Over the
    years  a  number of individuals have volunteered considerable time to
@@ -630,6 +630,9 @@ Chapter 3. Revision History
    4.4.4 14 Aug 2003 37392 235271 1630579 2295
 
    Corrected build machinery; we can make RPMS now.
+   4.4.5 4 Oct 2003 37482 235858 1634767 2299
+
+   Minor updates. Four new entries and a better original-bug picture.
 
    Version    numbering:    Version    numbers   should   be   read   as
    major.minor.revision. Major version 1 is reserved for the `old' (ITS)
@@ -1025,8 +1028,8 @@ Comparatives
    armor-plated
 
    Note,  however, that `dodgy' is primarily Commonwealth Hackish (it is
-   rare  in  the  U.S.)  and  may  change  places  with `flaky' for some
-   speakers.
+   rare  in  the  U.S.,  where  `squirrelly' may be more common) and may
+   change places with `flaky' for some speakers.
 
    Coinages for describing lossage seem to call forth the very finest in
    hackish linguistic inventiveness; it has been truly said that hackers
@@ -2149,6 +2152,7 @@ Glossary
         break-even point
         breath-of-life packet
         breedle
+        brick
         Breidbart Index
         bricktext
         bring X to its knees
@@ -2845,6 +2849,7 @@ Glossary
         guru
         guru meditation
         gweep
+        GWF
 
    H
 
@@ -3002,6 +3007,7 @@ Glossary
         ironmonger
         ISO standard cup of tea
         ISP
+        Itanic
         ITS
         IWBNI
         IYFEG
@@ -3484,6 +3490,7 @@ Glossary
         plugh
         plumbing
         PM
+        point release
         point-and-drool interface
         pointy hat
         pointy-haired
@@ -4549,8 +4556,9 @@ A
    catapults,  magnetic  traps, high-powered slingshots, etc. These were
    usually delivered in large wooden crates labeled prominently with the
    Acme  name  -- which, probably not by coincidence, was the trade name
-   of  the  animation  rotation board used by cartoonists since forever.
-   Acme devices invariably malfunctioned in improbable and violent ways.
+   of  a  peg  bar  system  for  superimposing  animation  cels  used by
+   cartoonists  since  forever. Acme devices invariably malfunctioned in
+   improbable and violent ways.
 
 :ad-hockery: /ad·hok'@r·ee/, n.
 
@@ -4573,7 +4581,8 @@ A
 
    This is {ad-hockery} in action.
 
-   (The next cartoon in the Crunchly saga is 74-08-18)
+   (The  next cartoon in the Crunchly saga is 74-08-18. The previous one
+   is 73-07-29.)
 
 :address harvester: n.
 
@@ -4676,7 +4685,7 @@ Rough stone steps lead up the dome.
    [Usenet;  common]  Abbrev. for "As Far As I Know". There is a variant
    AFAICT  "As  Far As I Can Tell"; where AFAIK suggests that the writer
    knows  his  knowledge  is  limited, AFAICT suggests that he feels his
-   knowledge  is  as  complete  as  anybody  else's  buit  that the best
+   knowledge  is  as  complete  as  anybody  else's  but  that  the best
    available knowledge does not support firm conclusions.
 
 :AFJ: //, n.
@@ -4811,10 +4820,10 @@ Rough stone steps lead up the dome.
    a  slew  of  JPEGs  and a movie of hacked photographs, each showing a
    street  sign,  store  front,  package label, etc. hacked to read "All
    your  base are belong to us" or one of the other many supremely dopey
-   lines  from  the  game  (such  as "Somebody set us up the bomb!!!" or
-   "What  happen?").  When  these phrases are used properly, the overall
-   effect  is  both screamingly funny and somewhat chilling, reminiscent
-   of the B movie "They Live".
+   lines from the game (such as "Somebody set up usthe bomb!!!" or "What
+   happen?").  When  these phrases are used properly, the overall effect
+   is both screamingly funny and somewhat chilling, reminiscent of the B
+   movie "They Live".
 
    The  original  has been generalized to "All your X are belong to us",
    where  X  is  filled  in to connote a sinister takeover of some sort.
@@ -5179,8 +5188,8 @@ Rough stone steps lead up the dome.
    hex;  [mesh].  Rare:  grid;  crosshatch; octothorpe; flash; <square>,
    pig-pen; tictactoe; scratchmark; thud; thump; {splat} .
    $  Common:  dollar; <dollar sign>. Rare: currency symbol; buck; cash;
-   string  (from  BASIC);  escape  (when used as the echo of ASCII ESC);
-   ding; cache; [big money].
+   bling;  string  (from  BASIC); escape (when used as the echo of ASCII
+   ESC); ding; cache; [big money].
    %    Common:    percent;   <percent   sign>;   mod;   grapes.   Rare:
    [double-oh-seven].
    & Common: <ampersand>; amp; amper; and, and sign. Rare: address (from
@@ -5381,10 +5390,7 @@ IIIIIII[_]IIIII[_]IIIIIL___J__II__|_|__II__L___JIIIII[_]IIIII[_]IIIIIIII[_]
    Used  to  indicate that data is sorted in ASCII collated order rather
    than alphabetical order. This lexicon is sorted in something close to
    ASCIIbetical  order, but with case ignored and entries beginning with
-   non-alphabetic characters moved to the beginning. "At my video store,
-   they  used their computer to sort the videos into ASCIIbetical order,
-   so  I  couldn't  find Crocodile Dundee until I thought to look before
-   2001 and 48 Hours!"
+   non-alphabetic characters moved to the beginning.
 
 :astroturfing: n.
 
@@ -5392,7 +5398,8 @@ IIIIIII[_]IIIII[_]IIIIIL___J__II__|_|__II__L___JIIIII[_]IIIII[_]IIIIIIII[_]
    movement,  through  means  like letters to newspapers from soi-disant
    `concerned  citizens',  paid  opinion  pieces,  and  the formation of
    grass-roots  lobbying  groups  that are actually funded by a PR group
-   (AstroTurf is fake grass; hence the term).
+   (AstroTurf  is  fake  grass; hence the term). See also {sock puppet},
+   {tentacle}.
 
    2. What an individual posting to a public forum under an assumed name
    is said to be doing.
@@ -5675,6 +5682,7 @@ B
    break-even point
    breath-of-life packet
    breedle
+   brick
    Breidbart Index
    bricktext
    bring X to its knees
@@ -5963,7 +5971,7 @@ B
 
    [MIT;  now  rare] Having the quality of a {bagbiter}. "This bagbiting
    system  won't  let  me  compute  the factorial of a negative number."
-   Compare  {losing},  {cretinous},  {bletcherous},  barfucious'  (under
+   Compare   {losing},  {cretinous},  {bletcherous},  barfucious  (under
    {barfulous}) and chomping (under {chomp}).
 
 :baggy pantsing: v.
@@ -6098,7 +6106,7 @@ B
    1. A top-centered graphic on a web page. Esp. used in {banner ad}.
 
    2.  On  interactive software, a first screen containing a logo and/or
-   author credits and/or a copyright notice.
+   author credits and/or a copyright notice. Similar to {splash screen}.
 
    3.  The  title  page  added  to printouts by most print spoolers (see
    {spool}).  Typically  includes user or account ID information in very
@@ -6284,7 +6292,8 @@ B
 
    [crunchly-2.png]
 
-   (The next cartoon in the Crunchly saga is 76-03-17:5-8)
+   (The  next cartoon in the Crunchly saga is 76-03-17:5-8. The previous
+   one is 76-02-20:2.)
 
 :bathtub curve: n.
 
@@ -6478,7 +6487,8 @@ B
 
    Sometimes `trouble' is spelled {bells and whistles}...
 
-   (The next cartoon in the Crunchly saga is 73-06-04)
+   (The  next cartoon in the Crunchly saga is 73-06-04. The previous one
+   is 73-05-28.)
 
 :bells whistles and gongs: n.
 
@@ -6853,7 +6863,8 @@ B
 
    A literal {bit bucket}.
 
-   (The next cartoon in the Crunchly saga is 76-02-14)
+   (The  next cartoon in the Crunchly saga is 76-02-14. The previous one
+   is 75-10-04.)
 
 :bit decay: n.
 
@@ -8213,6 +8224,17 @@ bits     0001  0011  0101  0111  1001  1011  1101  1111
 
    See {feep}.
 
+:brick: n.
+
+   A  piece  of  equipment that has been programmed or configured into a
+   {hung},  {wedged},unusable  state.  Especially  used to describe what
+   happens  to  devices like routers or PDAs that run from firmware when
+   the  firmware image is damaged or its settings are somehow patched to
+   impossible  values.  This  term  usually implies irreversibility, but
+   equipment  can  sometimes  be unbricked by performing a hard reset or
+   some  other drastic operation. Sometimes verbed: "Yeah, I bricked the
+   router because I forgot about adding in the new access-list.".
+
 :Breidbart Index: /bri:d´bart ind@ks/
 
    A  measurement  of  the severity of spam invented by long-time hacker
@@ -8549,7 +8571,7 @@ bits     0001  0011  0101  0111  1001  1011  1101  1111
    term  bug  was  regularly  applied  to  problems in radar electronics
    during WWII.
 
-   [bugpic.png]
+   [bugpic-color.jpg]
 
    The `original bug'
 
@@ -8631,7 +8653,8 @@ bits     0001  0011  0101  0111  1001  1011  1101  1111
 
    It helps to remember that this dates from 1973.
 
-   (The next cartoon in the Crunchly saga is 73-10-31)
+   (The  next  cartoon  in  the  Crunchly saga is 73-10-31. The previous
+   cartoon was 73-07-29.)
 
 :bug-compatible: adj.
 
@@ -9498,7 +9521,8 @@ C
 
    This is one way to be {chad}less.
 
-   (The next cartoon in the Crunchly saga is 75-10-04)
+   (The  next  cartoon  in  the  Crunchly saga is 75-10-04. The previous
+   cartoon was 74-12-29.)
 
 :chad box: n.
 
@@ -10690,7 +10714,8 @@ C original DO statement lost in the spaghetti...
 
    A {core dump} lands our hero in hot water.
 
-   (This is the last cartoon in the Crunchly saga.)
+   (This  is the last cartoon in the Crunchly saga. The previous cartoon
+   was 76-05-01.)
 
 :core leak: n.
 
@@ -13055,7 +13080,8 @@ D
 
    A really serious case of {drop-outs}.
 
-   (The next cartoon in the Crunchly saga is 73-05-21)
+   (The  next cartoon in the Crunchly saga is 73-05-21. The previous one
+   is 73-05-19.)
 
 :drugged: adj.
 
@@ -14361,7 +14387,8 @@ F
 
    Fascist security strikes again.
 
-   (The next cartoon in the Crunchly saga is 73-05-28)
+   (The  next cartoon in the Crunchly saga is 73-05-28. The previous one
+   is 73-05-20.)
 
 :fat electrons: n.
 
@@ -15207,7 +15234,8 @@ F
 
    Crunchly gets {flush}ed.
 
-   (The next cartoon in the Crunchly saga is 76-05-01)
+   (The  next  cartoon  in  the  Crunchly saga is 76-05-01. The previous
+   cartoon was 76-02-20:2.)
 
 :flypage: /fli:´payj/, n.
 
@@ -16255,6 +16283,7 @@ G
    guru
    guru meditation
    gweep
+   GWF
 
 :G: pref.,suff.
 
@@ -16753,7 +16782,8 @@ G
 
    Coping with a hydraulic {glitch}.
 
-   (The next cartoon in the Crunchly saga is 73-07-24)
+   (The  next cartoon in the Crunchly saga is 73-07-24. The previous one
+   is 73-05-28.)
 
 :glob: /glob/, not, /glohb/, v.,n.
 
@@ -17522,6 +17552,20 @@ G
    considered  derogatory  and  not used in self-reference; it has since
    been proudly claimed in much the same way as {geek}.
 
+:GWF: n.
+
+   "Common  abbreviation  for  Goober  with Firewall". A {luser} who has
+   equipped   his  desktop  computer  with  a  hypersensitive  "software
+   firewall"  or  host  intrusion  detection  program, and who gives its
+   alerts  absolute  credence.  ISP  tech  support and abuse desks dread
+   hearing  from  such persons, who insist that every packet of abnormal
+   traffic  the  software detects is "a hacker" (sic) and, occasionally,
+   threatening  lawsuits  or prosecution. GWFs have been known to assert
+   that  they  are  being attacked from 127.0.0.1, and that their ISP is
+   criminally  negligent  for  failing  to block these attacks. "GWF" is
+   used  similarly to {id10t error} and {PEBKAC} to flag trouble tickets
+   opened by such users.
+
 H
 
    h
@@ -17681,12 +17725,14 @@ H
 
    7. n. Short for {hacker}.
 
-   8.  See {nethack}. 9. [MIT] v. To explore the basements, roof ledges,
-   and  steam  tunnels of a large, institutional building, to the dismay
-   of  Physical  Plant  workers  and (since this is usually performed at
-   educational  institutions)  the Campus Police. This activity has been
-   found  to  be  eerily  similar  to  playing  adventure  games such as
-   Dungeons and Dragons and {Zork}. See also {vadding}.
+   8. See {nethack}.
+
+   9.  [MIT] v. To explore the basements, roof ledges, and steam tunnels
+   of  a  large, institutional building, to the dismay of Physical Plant
+   workers   and   (since  this  is  usually  performed  at  educational
+   institutions)  the  Campus Police. This activity has been found to be
+   eerily  similar  to  playing  adventure  games  such  as Dungeons and
+   Dragons and {Zork}. See also {vadding}.
 
    Constructions  on  this  term  abound.  They include happy hacking (a
    farewell),  how's  hacking?  (a  friendly greeting among hackers) and
@@ -18962,6 +19008,7 @@ I
    ironmonger
    ISO standard cup of tea
    ISP
+   Itanic
    ITS
    IWBNI
    IYFEG
@@ -19645,6 +19692,14 @@ I
    small  providers  (often  run  by  hackers  turned entrepreneurs) who
    resell  Internet  access cheaply without themselves being information
    providers or selling advertising. Compare {NSP}.
+
+:Itanic: n.
+
+   The  Intel  Itanium, so called in reference to the legendary disaster
+   that  was  the Titanic. This term bubbled up in several places on the
+   Internet  in  1999  when  it  was  beginning to become clear that the
+   Itanium  was  turning  into the most expensive and protracted flop in
+   the history of the semiconductor industry.
 
 :ITS: /I·T·S/, n.
 
@@ -20385,9 +20440,11 @@ K
    process  is  slow  and  almost  unnoticeable until one day the victim
    emerges  as  a  True Believer and begins spreading the faith himself.
    The  term  originates  in the suicide of 914 followers of Jim Jones's
-   People's  Temple cult in Guyana in 1978. What they actually drank was
-   cyanide-laced  Flavor-Aid,  a  cheap  knockoff,  rather than Kool-Aid
-   itself. There is a FAQ on this topic.
+   People's  Temple  cult  in  Guyana in 1978 (there are also resonances
+   with  Ken  Kesey's Electric Kool-Aid Acid Tests from the 1960s). What
+   the  Jonestown victims actually drank was cyanide-laced Flavor-Aid, a
+   cheap  knockoff,  rather than Kool-Aid itself. There is a FAQ on this
+   topic.
 
    This  has  live  variants.  When  a suit is blithering on about their
    latest  technology  and  how  it will save the world, that's `pouring
@@ -22056,7 +22113,8 @@ M
 
    A {math-out} approach to history.
 
-   (The next cartoon in the Crunchly saga is 73-05-19)
+   (The  next cartoon in the Crunchly saga is 73-05-19. The previous one
+   is the frontispiece.)
 
 :Matrix: n.
 
@@ -23254,10 +23312,10 @@ M
    make  the  design  asymmetrical  (see  also the anecdote under {magic
    smoke}).
 
-   Edward  A. Murphy, Jr. was one of McDonnell-Douglas's quality-control
-   engineers  on  the rocket-sled experiments that were done by the U.S.
-   Air Force in 1949 to test human acceleration tolerances (USAF project
-   MX981). One experiment involved a set of 16 accelerometers mounted to
+   Edward  A.  Murphy, Jr. was one of McDonnell-Douglas's test engineers
+   on  the  rocket-sled experiments that were done by the U.S. Air Force
+   in  1949  to test human acceleration tolerances (USAF project MX981).
+   One  experiment  involved  a  set  of  16  accelerometers  mounted to
    different  parts  of  the  subject's  body.  There were two ways each
    sensor  could  be  glued  to  its  mount,  and  somebody methodically
    installed  all  16  in a replacement set the wrong way around. Murphy
@@ -24196,7 +24254,8 @@ N
 
    Hydrodynamic {number-crunching}.
 
-   (The next cartoon in the Crunchly saga is 74-12-29)
+   (The  next  cartoon  in  the  Crunchly saga is 74-12-29. The previous
+   cartoon was 74-08-18.)
 
 :numbers: n.
 
@@ -24634,6 +24693,19 @@ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
    software}".  For  discussion  of  the  follow-on  tactics  and  their
    consequences, see the Open Source Initiative site.
 
+   Five  years after this term was invented, in 2003, it is worth noting
+   the  huge shift in assumptions it helped bring about, if only because
+   the hacker culture's collective memory of what went before is in some
+   ways blurring. Hackers have so completely refocused themselves around
+   the  idea  and  ideal  of open source that we are beginning to forget
+   that  we  used  to do most of our work in closed-source environments.
+   Until  the  late  1990s  open  source  was  a sporadic exception that
+   usually  had  to  live on top of a closed-source operating system and
+   alongside  closed-source  tools; entire open-source environments like
+   {Linux} and the *BSD systems didn't even exist in a usable form until
+   around  1993  and  weren't  taken  very  seriously  by  anyone  but a
+   pioneering few until about five years later.
+
 :open switch: n.
 
    [IBM:  prob.:  from  railroading]  An  unresolved question, issue, or
@@ -24841,7 +24913,8 @@ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 
    Crunchly and the {overflow bit}.
 
-   (The next cartoon in the Crunchly saga is 73-07-29)
+   (The  next cartoon in the Crunchly saga is 73-07-29. The previous one
+   is 73-06-04.)
 
 :overrun: n.
 
@@ -24971,6 +25044,7 @@ P
    plugh
    plumbing
    PM
+   point release
    point-and-drool interface
    pointy hat
    pointy-haired
@@ -25971,6 +26045,14 @@ P
 
    2.  n.  Abbrev.  for  `Presentation  Manager',  an {elephantine} OS/2
    graphical user interface.
+
+:point release: n.
+
+   [common]  A  minor  release  of  a  software  project, especially one
+   intended  to  fix bugs or do minor cleanups rather than add features.
+   The  term  implies that such releases are relatively frequent, and is
+   generally used with respect to {open source} projects being developed
+   in {bazaar} mode.
 
 :point-and-drool interface: n.
 
@@ -27181,9 +27263,10 @@ R
    generating  high-quality  randomness,  so hackers have sometimes felt
    the  need  to  built  special-purpose  contraptions  for this purpose
    alone.  One  well-known  website  offers  random  bits  generated  by
-   radioactive  decay.  Another  derives random bits from images of Lava
-   Lite  lamps.  (Hackers  invariably  find the latter hilarious. If you
-   have to ask why, you'll never get it.)
+   radioactive  decay.  Another derives random bits from chaotic systems
+   in  analog  electronics.  Originally,  the latter site got its random
+   bits by doing photometry on lava lamps. Hackers invariably found this
+   hilarious. If you have to ask why, you'll never get it.)
 
 :rape: vt.
 
@@ -29716,7 +29799,8 @@ S
    indicate   accident  locations  on  the  bridge.  Apparently  Smoot's
    experience  as  a  unit  of measurement led to a life-long career; he
    eventually  became  Chairman  of  the  Board of the American National
-   Standards Institute.
+   Standards   Institute,  and  later  President  of  the  International
+   Organization for Standardization.
 
 :SMOP: /S·M·O·P/, n.
 
@@ -29965,7 +30049,8 @@ S
    it  and  pretending it's talking back] In Usenet parlance, a {pseudo}
    through  which  the  puppeteer posts follow-ups to their own original
    message  to  give  the appearance that a number of people support the
-   views held in the original message.
+   views   held  in  the  original  message.  See  also  {astroturfing},
+   {tentacle}.
 
 :sodium substrate: n.
 
@@ -30142,7 +30227,8 @@ S
 
    An early {space-cadet keyboard}
 
-   (The next cartoon in the Crunchly saga is 73-05-20)
+   (The  next cartoon in the Crunchly saga is 73-05-20. The previous one
+   is 73-05-18.)
 
 :spaceship operator: n.
 
@@ -30736,7 +30822,8 @@ S
 
    How things weren't in the {Stone Age}.
 
-   (The next cartoon in the Crunchly saga is 76-07-18)
+   (The  next  cartoon  in  the  Crunchly saga is 76-07-18. The previous
+   cartoon was 76-03-14:5-8.)
 
    2.  More  generally,  a  pejorative  for any crufty, ancient piece of
    hardware  or  software  technology.  Note  that  this is used even by
@@ -31700,7 +31787,7 @@ T
    (see  {cypherpunk}), and adopted in a spirit of irony by other, saner
    members.  It has since shown up, used seriously, in the documentation
    for  some  remailer  software, and is now (1994) widely recognized on
-   the net.
+   the net. Compare {astroturfing}, {sock puppet}.
 
 :tenured graduate student: n.
 
@@ -34495,7 +34582,8 @@ W
 
    [76-02-14.png]
 
-   (The next cartoon in the Crunchly saga is 76-03-17:2)
+   (The  next  cartoon  in the Crunchly saga is 76-02-20:2. The previous
+   cartoon was 75-10-04.)
 
    2.  [CMU]  A machine used exclusively for {washing software}. CMU has
    clusters of these.
@@ -34516,7 +34604,8 @@ W
 
    A really unusual kind of {water MIPS}.
 
-   (The next cartoon in the Crunchly saga is 74-12-25)
+   (The  next  cartoon  in  the  Crunchly saga is 74-12-25. The previous
+   cartoon was 73-10-31.)
 
 :wave a dead chicken: v.
 
@@ -34962,7 +35051,8 @@ W
 
    [74-12-29.png]
 
-   (The next cartoon in the Crunchly saga is 75-10-04)
+   (The  next  cartoon  in  the  Crunchly saga is 75-10-04. The previous
+   cartoon was 74-12-25.)
 
 :winkey: n.
 
@@ -34993,7 +35083,7 @@ W
 :Wintel: n.
 
    Microsoft  Windows  plus  Intel  -- the tacit alliance that dominated
-   desktop computing in the 1990s. After 1999 it began to brwak up under
+   desktop computing in the 1990s. After 1999 it began to break up under
    pressure from {Linux}; see {Lintel}.
 
 :Wintendo: /win·ten´doh/, n.
@@ -35074,7 +35164,7 @@ W
    introductory  courses  at MIT. So called because of the wizard on the
    jacket.  One  of  the  {bible}s  of the LISP/Scheme world. Also, less
    commonly,   known   as  the  {Purple  Book}.  Now  available  on  the
-   http://mitpress.mit.edu/sicp/full-text/book/book.html
+   http://mitpress.mit.edu/sicp/
 
 :wizard hat: n.
 
