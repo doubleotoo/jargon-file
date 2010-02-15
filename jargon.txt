@@ -1,8 +1,8 @@
-#======= THIS IS THE JARGON FILE, VERSION 4.4.2, 22 MAY 2003 =======#
+#======= THIS IS THE JARGON FILE, VERSION 4.4.3, 22 JUL 2003 =======#
 
 The Jargon File
 
-(version 4.4.2)
+(version 4.4.3)
      ________________________________________________________________
 
    Table of Contents
@@ -88,8 +88,8 @@ Welcome to the Jargon File
    its  proper  use  to  which many hackers are quite strongly attached.
    Please  extend  the  courtesy  of  proper citation when you quote the
    File,  ideally with a version number, as it will change and grow over
-   time.  (Examples of appropriate citation form: "Jargon File 4.4.2" or
-   "The on-line hacker Jargon File, version 4.4.2, 22 May 2003".)
+   time.  (Examples of appropriate citation form: "Jargon File 4.4.3" or
+   "The on-line hacker Jargon File, version 4.4.3, 15 Jul 2003".)
 
    The  Jargon File is a common heritage of the hacker culture. Over the
    years  a  number of individuals have volunteered considerable time to
@@ -624,6 +624,9 @@ Chapter 3. Revision History
    4.4.2 22 May 2003 32629 227852 1555125 2290
 
    Fix filename collisions and other small problems.
+   4.4.3 15 Jul 2003 37363 235135 1629667 2293
+
+   Fix some stylesheet problems leading to missing links.
 
    Version    numbering:    Version    numbers   should   be   read   as
    major.minor.revision. Major version 1 is reserved for the `old' (ITS)
@@ -770,7 +773,6 @@ Soundalike Slang
      * Internet Explorer -> Internet Exploiter
      * FrontPage -> AffrontPage
      * VB.NET -> VB Nyet
-     * FrontPage -> AffrontPage
      * Lotus Notes -> Lotus Bloats
      * Microsoft Outlook -> Microsoft Outhouse
      * Linux -> Linsux
@@ -1804,7 +1806,7 @@ Chapter 11. Other Lexicon Conventions
    Purdue Purdue University
    SAIL   Stanford   Artificial  Intelligence  Laboratory  (at  Stanford
    University)
-   SI   From   Systéme   International,   the   name  for  the  standard
+   SI   From   Système   International,   the   name  for  the  standard
    abbreviations of metric nomenclature used in the sciences
    Stanford Stanford University
    Sun Sun Microsystems
@@ -1895,7 +1897,2391 @@ The Jargon Lexicon
 
 Glossary
 
+   0
+
+        (TM)
+        /dev/null
+        /me
+        0
+        1TBS
+        2
+        404
+        404 compliant
+        @-party
+
+   A
+
+        abbrev
+        ABEND
+        accumulator
+        ACK
+        Acme
+        ad-hockery
+        address harvester
+        adger
+        admin
+        ADVENT
+        adware
+        AFAIK
+        AFJ
+        AFK
+        AI
+        AI-complete
+        airplane rule
+        Alderson loop
+        aliasing bug
+        Alice and Bob
+        All hardware sucks, all software sucks.
+        all your base are belong to us
+        alpha geek
+        alpha particles
+        alt
+        alt bit
+        Aluminum Book
+        ambimouseterous
+        Amiga
+        Amiga Persecution Complex
+        amp off
+        amper
+        and there was much rejoicing
+        Angband
+        angle brackets
+        angry fruit salad
+        annoybot
+        annoyware
+        ANSI standard
+        ANSI standard pizza
+        anti-idiotarianism
+        AOL!
+        app
+        Archimedes
+        arena
+        arg
+        ARMM
+        armor-plated
+        asbestos
+        asbestos cork award
+        asbestos longjohns
+        ASCII
+        ASCII art
+        ASCIIbetical order
+        astroturfing
+        atomic
+        attoparsec
+        Aunt Tillie
+        AUP
+        autobogotiphobia
+        autoconfiscate
+        automagically
+        avatar
+        awk
+
+   B
+
+        B1FF
+        B5
+        back door
+        backbone cabal
+        backbone site
+        backgammon
+        background
+        backreference
+        backronym
+        backward combatability
+        BAD
+        Bad and Wrong
+        Bad Thing
+        bag on the side
+        bagbiter
+        bagbiting
+        baggy pantsing
+        balloonian variable
+        bamf
+        banana problem
+        bandwidth
+        bang
+        bang on
+        bang path
+        banner
+        banner ad
+        banner site
+        bar
+        bare metal
+        barf
+        barfmail
+        barfulation
+        barfulous
+        barn
+        barney
+        baroque
+        BASIC
+        batbelt
+        batch
+        bathtub curve
+        Batman factor
+        baud
+        baz
+        bazaar
+        bboard
+        BBS
+        BCPL
+        BDFL
+        beam
+        beanie key
+        beep
+        Befunge
+        beige toaster
+        bells and whistles
+        bells whistles and gongs
+        benchmark
+        Berkeley Quality Software
+        Berzerkeley
+        beta
+        BFI
+        BI
+        bible
+        BiCapitalization
+        biff
+        big iron
+        Big Red Switch
+        Big Room
+        big win
+        big-endian
+        bignum
+        bigot
+        bikeshedding
+        binary four
+        bit
+        bit bashing
+        bit bucket
+        bit decay
+        bit rot
+        bit twiddling
+        bit-paired keyboard
+        bitblt
+        bits
+        bitty box
+        bixie
+        black art
+        black hat
+        black hole
+        black magic
+        Black Screen of Death
+        blammo
+        blargh
+        blast
+        blat
+        bletch
+        bletcherous
+        blinkenlights
+        blit
+        blitter
+        blivet
+        bloatware
+        BLOB
+        block
+        blog
+        Bloggs Family
+        blogosphere
+        blogrolling
+        blow an EPROM
+        blow away
+        blow out
+        blow past
+        blow up
+        BLT
+        blue box
+        Blue Glue
+        blue goo
+        Blue Screen of Death
+        blue wire
+        blurgle
+        BNF
+        boa
+        board
+        boat anchor
+        bob
+        bodge
+        BOF
+        BOFH
+        bogo-sort
+        bogometer
+        BogoMIPS
+        bogon
+        bogon filter
+        bogon flux
+        bogosity
+        bogotify
+        bogue out
+        bogus
+        Bohr bug
+        boink
+        bomb
+        bondage-and-discipline language
+        bonk/oif
+        book titles
+        boot
+        Borg
+        borken
+        bot
+        bottom feeder
+        bottom-post
+        bottom-up implementation
+        bounce
+        bounce message
+        boustrophedon
+        box
+        boxed comments
+        boxen
+        boxology
+        bozotic
+        brain dump
+        brain fart
+        brain-damaged
+        brain-dead
+        braino
+        brainwidth
+        bread crumbs
+        break
+        break-even point
+        breath-of-life packet
+        breedle
+        Breidbart Index
+        bricktext
+        bring X to its knees
+        brittle
+        broadcast storm
+        broken
+        broken arrow
+        broken-ring network
+        BrokenWindows
+        broket
+        Brooks's Law
+        brown-paper-bag bug
+        browser
+        BRS
+        brute force
+        brute force and ignorance
+        BSD
+        BSOD
+        BUAF
+        BUAG
+        bubble sort
+        bucky bits
+        buffer chuck
+        buffer overflow
+        bug
+        bug-compatible
+        bug-for-bug compatible
+        bug-of-the-month club
+        bulletproof
+        bullschildt
+        bump
+        burble
+        buried treasure
+        burn a CD
+        burn-in period
+        burst page
+        busy-wait
+        buzz
+        buzzword-compliant
+        BWQ
+        by hand
+        byte
+        byte sex
+        bytesexual
+        Bzzzt! Wrong.
+
+   C
+
+        C
+        C Programmer's Disease
+        C&C
+        C++
+        calculator
+        Camel Book
+        camelCase
+        camelCasing
+        can't happen
+        cancelbot
+        Cancelmoose[tm]
+        candygrammar
+        canonical
+        careware
+        cargo cult programming
+        cascade
+        case and paste
+        case mod
+        casters-up mode
+        casting the runes
+        cat
+        catatonic
+        cathedral
+        cd tilde
+        CDA
+        cdr
+        chad
+        chad box
+        chain
+        chainik
+        channel
+        channel hopping
+        channel op
+        chanop
+        char
+        charityware
+        chase pointers
+        chawmp
+        check
+        cheerfully
+        chemist
+        Chernobyl chicken
+        Chernobyl packet
+        chicken head
+        chickenboner
+        chiclet keyboard
+        Chinese Army technique
+        choad
+        choke
+        chomp
+        chomper
+        CHOP
+        Christmas tree
+        Christmas tree packet
+        chrome
+        chug
+        Church of the SubGenius
+        CI$
+        Cinderella Book
+        Classic C
+        clean
+        click of death
+        CLM
+        clobber
+        clock
+        clocks
+        clone
+        clone-and-hack coding
+        clover key
+        clue-by-four
+        clustergeeking
+        co-lo
+        coaster
+        coaster toaster
+        COBOL
+        COBOL fingers
+        cobweb site
+        code
+        code grinder
+        code monkey
+        Code of the Geeks
+        code police
+        codes
+        codewalker
+        coefficient of X
+        cokebottle
+        cold boot
+        COME FROM
+        comm mode
+        command key
+        comment out
+        Commonwealth Hackish
+        compact
+        compiler jock
+        compo
+        compress
+        Compu$erve
+        computer confetti
+        computron
+        con
+        condition out
+        condom
+        confuser
+        connector conspiracy
+        cons
+        considered harmful
+        console
+        console jockey
+        content-free
+        control-C
+        control-O
+        control-Q
+        control-S
+        Conway's Law
+        cookbook
+        cooked mode
+        cookie
+        cookie bear
+        cookie file
+        cookie jar
+        cookie monster
+        copious free time
+        copper
+        copy protection
+        copybroke
+        copycenter
+        copyleft
+        copyparty
+        copywronged
+        core
+        core cancer
+        core dump
+        core leak
+        Core Wars
+        cosmic rays
+        cough and die
+        courier
+        cow orker
+        cowboy
+        CP/M
+        CPU Wars
+        crack
+        crack root
+        cracker
+        cracking
+        crank
+        crapplet
+        CrApTeX
+        crash
+        crash and burn
+        crawling horror
+        CRC handbook
+        creationism
+        creep
+        creeping elegance
+        creeping featurism
+        creeping featuritis
+        cretin
+        cretinous
+        crippleware
+        critical mass
+        crlf
+        crock
+        cross-post
+        crossload
+        crudware
+        cruft
+        cruft together
+        cruftsmanship
+        crufty
+        crumb
+        crunch
+        cryppie
+        cthulhic
+        CTSS
+        cube
+        cup holder
+        cursor dipped in X
+        cuspy
+        cut a tape
+        cybercrud
+        cyberpunk
+        cyberspace
+        cycle
+        cycle of reincarnation
+        cycle server
+        cypherpunk
+        C|N>K
+
+   D
+
+        daemon
+        daemon book
+        dahmum
+        dancing frog
+        dangling pointer
+        dark-side hacker
+        Datamation
+        DAU
+        Dave the Resurrector
+        day mode
+        dd
+        DDT
+        de-rezz
+        dead
+        dead beef attack
+        dead code
+        dead-tree version
+        DEADBEEF
+        deadlock
+        deadly embrace
+        death code
+        Death Square
+        Death Star
+        Death, X of
+        DEC
+        DEC Wars
+        decay
+        deckle
+        DED
+        deep hack mode
+        deep magic
+        deep space
+        defenestration
+        defined as
+        deflicted
+        dehose
+        Dejagoo
+        deletia
+        deliminator
+        delint
+        delta
+        demented
+        demigod
+        demo
+        demo mode
+        demoeffect
+        demogroup
+        demon
+        demon dialer
+        demoparty
+        demoscene
+        dentro
+        depeditate
+        deprecated
+        derf
+        deserves to lose
+        despew
+        dickless workstation
+        dictionary flame
+        diddle
+        die
+        die horribly
+        diff
+        dike
+        Dilbert
+        ding
+        dink
+        dinosaur
+        dinosaur pen
+        dinosaurs mating
+        dirtball
+        dirty power
+        disclaimer
+        Discordianism
+        disemvowel
+        disk farm
+        display hack
+        dispress
+        Dissociated Press
+        distribution
+        distro
+        disusered
+        DMZ
+        do protocol
+        doc
+        documentation
+        dodgy
+        dogcow
+        dogfood
+        dogpile
+        dogwash
+        Don't do that then!
+        dongle
+        dongle-disk
+        Doom, X of
+        doorstop
+        DoS attack
+        dot file
+        double bucky
+        doubled sig
+        down
+        download
+        DP
+        DPer
+        Dr. Fred Mbogo
+        dragon
+        Dragon Book
+        drain
+        dread high-bit disease
+        dread questionmark disease
+        DRECNET
+        driver
+        droid
+        drone
+        drool-proof paper
+        drop on the floor
+        drop-ins
+        drop-outs
+        drugged
+        drum
+        drunk mouse syndrome
+        DSW
+        dub dub dub
+        Duff's device
+        dumb terminal
+        dumbass attack
+        dumbed down
+        dump
+        dumpster diving
+        dusty deck
+        DWIM
+        dynner
+
+   E
+
+        Easter egg
+        Easter egging
+        eat flaming death
+        EBCDIC
+        ECP
+        ed
+        egg
+        egosurf
+        eighty-column mind
+        El Camino Bignum
+        elder days
+        elegant
+        elephantine
+        elevator controller
+        elite
+        ELIZA effect
+        elvish
+        EMACS
+        email
+        emoticon
+        EMP
+        empire
+        engine
+        English
+        enhancement
+        ENQ
+        EOD
+        EOF
+        EOL
+        EOU
+        epoch
+        epsilon
+        epsilon squared
+        era
+        Eric Conspiracy
+        Eris
+        erotics
+        error 33
+        eurodemo
+        evil
+        evil and rude
+        Evil Empire
+        exa-
+        examining the entrails
+        EXCH
+        excl
+        EXE
+        exec
+        exercise, left as an
+        Exon
+        Exploder
+        exploit
+        external memory
+        eye candy
+        eyeball search
+
+   F
+
+        face time
+        factor
+        fairings
+        fall over
+        fall through
+        fan
+        fandango on core
+        FAQ
+        FAQ list
+        FAQL
+        faradize
+        farkled
+        farm
+        fascist
+        fat electrons
+        fat pipe
+        fat-finger
+        faulty
+        fear and loathing
+        feature
+        feature creature
+        feature creep
+        feature key
+        feature shock
+        featurectomy
+        feep
+        feeper
+        feeping creature
+        feeping creaturism
+        feetch feetch
+        fence
+        fencepost error
+        fiber-seeking backhoe
+        FidoNet
+        field circus
+        field servoid
+        file signature
+        filk
+        film at 11
+        filter
+        Finagle's Law
+        fine
+        finger
+        finger trouble
+        finger-pointing syndrome
+        finn
+        firebottle
+        firefighting
+        firehose syndrome
+        firewall code
+        firewall machine
+        fireworks mode
+        firmware
+        fish
+        FISH queue
+        fisking
+        FITNR
+        fix
+        FIXME
+        flag
+        flag day
+        flaky
+        flamage
+        flame
+        flame bait
+        flame on
+        flame war
+        flamer
+        flap
+        flarp
+        flash crowd
+        flat
+        flat-ASCII
+        flat-file
+        flatten
+        flavor
+        flavorful
+        flippy
+        flood
+        flowchart
+        flower key
+        flush
+        flypage
+        Flyspeck 3
+        flytrap
+        FM
+        fnord
+        FOAF
+        FOD
+        fold case
+        followup
+        fontology
+        foo
+        foobar
+        fool
+        fool file
+        Foonly
+        footprint
+        for free
+        for the rest of us
+        for values of
+        fora
+        foreground
+        fork
+        fork bomb
+        forked
+        Formosa's Law
+        Fortrash
+        fortune cookie
+        forum
+        fossil
+        four-color glossies
+        frag
+        fragile
+        Frankenputer
+        fred
+        Fred Foobar
+        frednet
+        free software
+        freeware
+        freeze
+        fried
+        frink
+        friode
+        fritterware
+        frob
+        frobnicate
+        frobnitz
+        frog
+        frogging
+        front end
+        frotz
+        frotzed
+        frowney
+        FRS
+        fry
+        fscking
+        FSF
+        -fu
+        FUBAR
+        fuck me harder
+        FUD
+        FUD wars
+        fudge
+        fudge factor
+        fuel up
+        Full Monty
+        fum
+        functino
+        funky
+        funny money
+        furrfu
+
+   G
+
+        G
+        gang bang
+        Gang of Four
+        garbage collect
+        garply
+        gas
+        Gates's Law
+        gawble
+        GC
+        GCOS
+        GECOS
+        gedanken
+        geef
+        geek
+        geek code
+        geek out
+        geekasm
+        gen
+        gender mender
+        General Public Virus
+        generate
+        Genius From Mars Technique
+        gensym
+        Get a life!
+        Get a real computer!
+        GandhiCon
+        gib
+        GIFs at 11
+        gig
+        giga-
+        GIGO
+        gilley
+        gillion
+        ginger
+        GIPS
+        GIYF
+        glark
+        glass
+        glass tty
+        glassfet
+        glitch
+        glob
+        glork
+        glue
+        gnarly
+        GNU
+        gnubie
+        GNUMACS
+        go flatline
+        go gold
+        go root
+        go-faster stripes
+        GoAT
+        goat file
+        gobble
+        Godwin's Law
+        Godzillagram
+        golden
+        golf-ball printer
+        gonk
+        gonkulator
+        gonzo
+        Good Thing
+        google
+        google juice
+        gopher
+        gopher hole
+        gorets
+        gorilla arm
+        gorp
+        GOSMACS
+        gotcha
+        GPL
+        GPV
+        gray goo
+        gray hat
+        Great Internet Explosion
+        Great Renaming
+        Great Runes
+        Great Worm
+        great-wall
+        green bytes
+        green card
+        green lightning
+        green machine
+        Green's Theorem
+        greenbar
+        grep
+        gribble
+        grilf
+        grind
+        grind crank
+        gritch
+        grok
+        gronk
+        gronk out
+        gronked
+        grovel
+        grue
+        grunge
+        gubbish
+        Guido
+        guiltware
+        gumby
+        gunch
+        gunpowder chicken
+        guru
+        guru meditation
+        gweep
+
+   H
+
+        h
+        ha ha only serious
+        hack
+        hack attack
+        hack mode
+        hack on
+        hack together
+        hack up
+        hack value
+        hacked off
+        hacked up
+        hacker
+        hacker ethic
+        hacker humor
+        Hackers (the movie)
+        hacking run
+        Hacking X for Y
+        Hackintosh
+        hackish
+        hackishness
+        hackitude
+        hair
+        hairball
+        hairy
+        HAKMEM
+        hakspek
+        Halloween Documents
+        ham
+        hammer
+        hamster
+        HAND
+        hand cruft
+        hand-hacking
+        hand-roll
+        handle
+        handshaking
+        handwave
+        hang
+        Hanlon's Razor
+        happily
+        hard boot
+        hardcoded
+        hardwarily
+        hardwired
+        has the X nature
+        hash bucket
+        hash collision
+        hat
+        HCF
+        heads down
+        heartbeat
+        heatseeker
+        heavy metal
+        heavy wizardry
+        heavyweight
+        Hed Rat
+        heisenbug
+        hell desk
+        hello sailor!
+        hello world
+        hello, wall!
+        hex
+        hexadecimal
+        hexit
+        HHOK
+        HHOS
+        hidden flag
+        high bit
+        high moby
+        highly
+        hing
+        hired gun
+        hirsute
+        HLL
+        hoarding
+        hog
+        hole
+        hollised
+        holy penguin pee
+        holy wars
+        home box
+        home machine
+        home page
+        honey pot
+        hook
+        hop
+        horked
+        hose
+        hosed
+        hot chat
+        hot spot
+        hotlink
+        house wizard
+        HP-SUX
+        HTH
+        huff
+        hung
+        hungry puppy
+        hungus
+        hyperspace
+        hysterical reasons
+
+   I
+
+        I didn't change anything!
+        I see no X here.
+        IANAL
+        IBM
+        ICBM address
+        ice
+        ID10T error
+        idempotent
+        IDP
+        If you want X, you know where to find it.
+        ifdef out
+        IIRC
+        ill-behaved
+        IMHO
+        Imminent Death Of The Net Predicted!
+        in the extreme
+        incantation
+        include
+        include war
+        indent style
+        Indent-o-Meter
+        index of X
+        infant mortality
+        infinite
+        infinite loop
+        Infinite-Monkey Theorem
+        infinity
+        inflate
+        Infocom
+        initgame
+        insanely great
+        installfest
+        INTERCAL
+        InterCaps
+        interesting
+        Internet
+        Internet Death Penalty
+        Internet Exploder
+        Internet Exploiter
+        interrupt
+        interrupts locked out
+        intertwingled
+        intro
+        IRC
+        iron
+        Iron Age
+        iron box
+        ironmonger
+        ISO standard cup of tea
+        ISP
+        ITS
+        IWBNI
+        IYFEG
+
+   J
+
+        J. Random
+        J. Random Hacker
+        jack in
+        jaggies
+        Java
+        JCL
+        JEDR
+        Jeff K.
+        jello
+        Jeopardy-style quoting
+        jibble
+        jiffy
+        job security
+        jock
+        joe code
+        juggling eggs
+        juice
+        jump off into never-never land
+        jupiter
+
+   K
+
+        K
+        K&R
+        k-
+        kahuna
+        kamikaze packet
+        kangaroo code
+        ken
+        kernel-of-the-week club
+        kgbvax
+        KIBO
+        kiboze
+        kibozo
+        kick
+        kill file
+        killer app
+        killer micro
+        killer poke
+        kilo-
+        kilogoogle
+        KIPS
+        KISS Principle
+        kit
+        KLB
+        klone
+        kludge
+        kluge
+        kluge around
+        kluge up
+        Knights of the Lambda Calculus
+        knobs
+        Knuth
+        koan
+        kook
+        Kool-Aid
+        kremvax
+        kyrka
+
+   L
+
+        lag
+        lamer
+        LAN party
+        language lawyer
+        languages of choice
+        LART
+        larval stage
+        lase
+        laser chicken
+        leaf site
+        leak
+        leaky heap
+        leapfrog attack
+        leech
+        leech mode
+        legal
+        legalese
+        lenna
+        LER
+        LERP
+        let the smoke out
+        letterbomb
+        lexer
+        life
+        Life is hard
+        light pipe
+        lightweight
+        like kicking dead whales down the beach
+        like nailing jelly to a tree
+        line 666
+        line eater, the
+        line noise
+        linearithmic
+        link farm
+        link rot
+        link-dead
+        lint
+        Lintel
+        Linus
+        Linux
+        lion food
+        Lions Book
+        LISP
+        list-bomb
+        lithium lick
+        little-endian
+        live
+        live data
+        Live Free Or Die!
+        livelock
+        liveware
+        lobotomy
+        locals, the
+        locked and loaded
+        locked up
+        logic bomb
+        logical
+        loop through
+        loose bytes
+        lord high fixer
+        lose
+        lose lose
+        loser
+        losing
+        loss
+        lossage
+        lossy
+        lost in the noise
+        lost in the underflow
+        lots of MIPS but no I/O
+        low-bandwidth
+        Lubarsky's Law of Cybernetic Entomology
+        Lumber Cartel
+        lunatic fringe
+        lurker
+        luser
+
+   M
+
+        M
+        M$
+        macdink
+        machoflops
+        Macintoy
+        Macintrash
+        macro
+        macro-
+        macrology
+        maggotbox
+        magic
+        magic cookie
+        magic number
+        magic smoke
+        mail storm
+        mailbomb
+        mailing list
+        main loop
+        mainframe
+        mainsleaze
+        man page
+        management
+        mandelbug
+        manged
+        mangle
+        mangled name
+        mangler
+        manularity
+        marching ants
+        marbles
+        marginal
+        marginally
+        marketroid
+        Mars
+        martian
+        massage
+        math-out
+        Matrix
+        maximum Maytag mode
+        McQuary limit
+        meatspace
+        meatware
+        meeces
+        meg
+        mega-
+        megapenny
+        MEGO
+        meltdown, network
+        meme
+        meme plague
+        memetics
+        memory farts
+        memory leak
+        memory smash
+        menuitis
+        mess-dos
+        meta
+        meta bit
+        metasyntactic variable
+        MFTL
+        mickey
+        mickey mouse program
+        micro-
+        MicroDroid
+        microfortnight
+        microLenat
+        microReid
+        microserf
+        Microsloth Windows
+        Microsoft
+        micros~1
+        middle-endian
+        middle-out implementation
+        milliLampson
+        minor detail
+        MIPS
+        misbug
+        misfeature
+        missile address
+        MiSTing
+        miswart
+        MMF
+        mobo
+        moby
+        mockingbird
+        mod
+        mode
+        mode bit
+        modulo
+        mojibake
+        molly-guard
+        Mongolian Hordes technique
+        monkey up
+        monkey, scratch
+        monstrosity
+        monty
+        Moof
+        Moore's Law
+        moria
+        MOTAS
+        MOTOS
+        MOTSS
+        mouse ahead
+        mouse belt
+        mouse droppings
+        mouse elbow
+        mouse pusher
+        mouso
+        MS-DOS
+        mu
+        MUD
+        muddie
+        mudhead
+        muggle
+        Multics
+        multitask
+        mumblage
+        mumble
+        munch
+        munching
+        munching squares
+        munchkin
+        mundane
+        mung
+        munge
+        Murphy's Law
+        music
+        mutter
+
+   N
+
+        N
+        nadger
+        nagware
+        nailed to the wall
+        nailing jelly
+        naive
+        naive user
+        NAK
+        NANA
+        nano
+        nano-
+        nanoacre
+        nanobot
+        nanocomputer
+        nanofortnight
+        nanotechnology
+        narg
+        nasal demons
+        nastygram
+        Nathan Hale
+        nature
+        neat hack
+        neats vs. scruffies
+        neep-neep
+        neophilia
+        nerd
+        nerd knob
+        net.-
+        net.god
+        net.personality
+        net.police
+        netburp
+        netdead
+        nethack
+        netiquette
+        netlag
+        netnews
+        Netscrape
+        netsplit
+        netter
+        network address
+        network meltdown
+        New Jersey
+        New Testament
+        newbie
+        newgroup wars
+        newline
+        NeWS
+        newsfroup
+        newsgroup
+        nick
+        nickle
+        night mode
+        Nightmare File System
+        NIL
+        Ninety-Ninety Rule
+        nipple mouse
+        NMI
+        no-op
+        noddy
+        non-optimal solution
+        nonlinear
+        nontrivial
+        not entirely unlike X
+        not ready for prime time
+        notwork
+        NP-
+        NSA line eater
+        NSP
+        nude
+        nugry
+        nuke
+        number-crunching
+        numbers
+        NUXI problem
+        nybble
+        nyetwork
+
+   O
+
+        Ob-
+        Obfuscated C Contest
+        obi-wan error
+        Objectionable-C
+        obscure
+        octal forty
+        off the trolley
+        off-by-one error
+        offline
+        ogg
+        -oid
+        old fart
+        Old Testament
+        on the gripping hand
+        one-banana problem
+        one-line fix
+        one-liner wars
+        ooblick
+        OP
+        op
+        open
+        open source
+        open switch
+        operating system
+        operator headspace
+        optical diff
+        optical grep
+        optimism
+        Oracle, the
+        Orange Book
+        oriental food
+        orphan
+        orphaned i-node
+        orthogonal
+        OS
+        OS/2
+        OSS
+        OT
+        OTOH
+        out-of-band
+        overclock
+        overflow bit
+        overrun
+        overrun screw
+        owned
+
+   P
+
+        P.O.D.
+        packet over air
+        padded cell
+        page in
+        page out
+        pain in the net
+        paper-net
+        param
+        PARC
+        parent message
+        parity errors
+        Parkinson's Law of Data
+        parm
+        parse
+        Pascal
+        PascalCasing
+        pastie
+        patch
+        patch pumpkin
+        patch space
+        path
+        pathological
+        payware
+        PBD
+        PD
+        PDP-10
+        PDP-11
+        PDP-20
+        PEBKAC
+        peek
+        pencil and paper
+        Pentagram Pro
+        Pentium
+        peon
+        percent-S
+        perf
+        perfect programmer syndrome
+        Perl
+        person of no account
+        pessimal
+        pessimizing compiler
+        peta-
+        pffft
+        PFY
+        phage
+        phase
+        phase of the moon
+        phase-wrapping
+        PHB
+        phreaker
+        phreaking
+        pico-
+        pig-tail
+        pilot error
+        ping
+        Ping O' Death
+        ping storm
+        pink contract
+        pink wire
+        pipe
+        pistol
+        pixel sort
+        pizza box
+        plaid screen
+        plain-ASCII
+        Plan 9
+        plan file
+        platinum-iridium
+        playpen
+        playte
+        plokta
+        plonk
+        plug-and-pray
+        plugh
+        plumbing
+        PM
+        point-and-drool interface
+        pointy hat
+        pointy-haired
+        poke
+        poll
+        polygon pusher
+        POM
+        ponytail
+        pop
+        poser
+        post
+        postcardware
+        Postel's Prescription
+        posting
+        postmaster
+        PostScript
+        pound on
+        power cycle
+        power hit
+        pr0n
+        precedence lossage
+        pred
+        prepend
+        prestidigitization
+        pretty pictures
+        prettyprint
+        pretzel key
+        priesthood
+        prime time
+        print
+        printing discussion
+        priority interrupt
+        profile
+        progasm
+        proggy
+        proglet
+        program
+        Programmer's Cheer
+        programming
+        programming fluid
+        propeller head
+        propeller key
+        proprietary
+        protocol
+        provocative maintenance
+        prowler
+        pseudo
+        pseudoprime
+        pseudosuit
+        psychedelicware
+        psyton
+        pubic directory
+        puff
+        pumpkin holder
+        pumpking
+        punched card
+        punt
+        Purple Book
+        purple wire
+        push
+        Python
+
+   Q
+
+        quad
+        quadruple bucky
+        quantifiers
+        quantum bogodynamics
+        quarter
+        ques
+        quick-and-dirty
+        quine
+        Quirk objection
+        quote chapter and verse
+        quotient
+        quux
+        qux
+        QWERTY
+
+   R
+
+        rabbit job
+        rain dance
+        rainbow series
+        random
+        Random Number God
+        random numbers
+        randomness
+        rape
+        rare mode
+        raster blaster
+        raster burn
+        rasterbation
+        rat belt
+        rat dance
+        rathole
+        ratio site
+        rave
+        rave on!
+        ravs
+        raw mode
+        RBL
+        rc file
+        RE
+        read-only user
+        README file
+        real
+        real estate
+        real hack
+        real operating system
+        Real Programmer
+        Real Soon Now
+        real time
+        real user
+        Real World
+        reality check
+        reality-distortion field
+        reaper
+        recompile the world
+        rectangle slinger
+        recursion
+        recursive acronym
+        red wire
+        regexp
+        register dancing
+        rehi
+        reincarnation, cycle of
+        reinvent the wheel
+        relay rape
+        religion of CHI
+        religious issues
+        replicator
+        reply
+        restriction
+        retcon
+        RETI
+        retrocomputing
+        return from the dead
+        RFC
+        RFE
+        Right Thing
+        rip
+        ripoff
+        RL
+        roach
+        robocanceller
+        robot
+        robust
+        rococo
+        rogue
+        room-temperature IQ
+        root
+        root mode
+        rootkit
+        rot13
+        rotary debugger
+        RSN
+        RTBM
+        RTFAQ
+        RTFB
+        RTFM
+        RTFS
+        RTI
+        RTM
+        RTS
+        rubber-hose cryptanalysis
+        rude
+        runes
+        runic
+        rusty iron
+        rusty wire
+
+   S
+
+        S/N ratio
+        sacred
+        saga
+        sagan
+        SAIL
+        salescritter
+        salt
+        salt mines
+        salt substrate
+        same-day service
+        samizdat
+        samurai
+        sandbender
+        sandbox
+        sanity check
+        Saturday-night special
+        say
+        scag
+        scanno
+        scary devil monastery
+        schroedinbug
+        science-fiction fandom
+        SCNR
+        scram switch
+        scratch
+        scratch monkey
+        scream and die
+        screaming tty
+        screen
+        screen name
+        screen scraping
+        screw
+        screwage
+        scribble
+        script kiddies
+        scrog
+        scrool
+        scrozzle
+        scruffies
+        SCSI
+        SCSI voodoo
+        search-and-destroy mode
+        second-system effect
+        secondary damage
+        security through obscurity
+        SED
+        See figure 1
+        segfault
+        seggie
+        segment
+        segmentation fault
+        segv
+        self-reference
+        selvage
+        semi
+        semi-automated
+        semi-infinite
+        senior bit
+        September that never ended
+        server
+        SEX
+        sex changer
+        shambolic link
+        shar file
+        sharchive
+        Share and enjoy!
+        shareware
+        sharing violation
+        shebang
+        shelfware
+        shell
+        shell out
+        shift left (or right) logical
+        shim
+        shitogram
+        shotgun debugging
+        shovelware
+        showstopper
+        shriek
+        Shub-Internet
+        SIG
+        sig block
+        sig quote
+        sig virus
+        sigmonster
+        signal-to-noise ratio
+        silicon
+        silly walk
+        silo
+        since time T equals minus infinity
+        sitename
+        skrog
+        skulker
+        slab
+        slack
+        slash
+        slashdot effect
+        sleep
+        slim
+        slop
+        slopsucker
+        Slowlaris
+        slurp
+        slurp the robot
+        smart
+        smart terminal
+        smash case
+        smash the stack
+        smiley
+        smoke
+        smoke and mirrors
+        smoke test
+        smoking clover
+        smoot
+        SMOP
+        smurf
+        SNAFU principle
+        snail
+        snail-mail
+        snap
+        snarf
+        snarf & barf
+        snarf down
+        snark
+        sneaker
+        sneakernet
+        sniff
+        SO
+        social engineering
+        social science number
+        sock puppet
+        sodium substrate
+        soft boot
+        softcopy
+        software bloat
+        software hoarding
+        software laser
+        software rot
+        softwarily
+        softy
+        some random X
+        sorcerer's apprentice mode
+        source
+        source of all good bits
+        space-cadet keyboard
+        spaceship operator
+        SPACEWAR
+        spaghetti code
+        spaghetti inheritance
+        spam
+        spam bait
+        spamblock
+        spamhaus
+        spamvertize
+        spangle
+        spawn
+        special-case
+        speed of light
+        speedometer
+        spell
+        spelling flame
+        spider
+        spider food
+        spiffy
+        spike
+        spin
+        Spinning Pizza of Death
+        spl
+        splash screen
+        splat
+        splat out
+        splork!
+        spod
+        spoiler
+        spoiler space
+        sponge
+        spoof
+        spool
+        spool file
+        sporgery
+        sport death
+        spungle
+        spyware
+        squirrelcide
+        stack
+        stack puke
+        stale pointer bug
+        Stanford Bunny
+        star out
+        state
+        stealth manager
+        steam-powered
+        steved
+        STFW
+        stir-fried random
+        stomp on
+        Stone Age
+        stone knives and bearskins
+        stoppage
+        store
+        STR
+        strided
+        stroke
+        strudel
+        stubroutine
+        studly
+        studlycaps
+        stunning
+        stupid-sort
+        Stupids
+        Sturgeon's Law
+        sucking mud
+        sufficiently small
+        suit
+        suitable win
+        suitably small
+        Sun
+        sun lounge
+        sun-stools
+        sunspots
+        super source quench
+        superloser
+        superprogrammer
+        superuser
+        support
+        surf
+        Suzie COBOL
+        swab
+        swap
+        swap space
+        swapped in
+        swapped out
+        Swiss-Army chainsaw
+        swizzle
+        sync
+        syntactic salt
+        syntactic sugar
+        sys-frog
+        sysadmin
+        sysape
+        sysop
+        system
+        system mangler
+        systems jock
+
+   T
+
+        T
+        tail recursion
+        talk mode
+        talker system
+        TAN
+        tanked
+        TANSTAAFL
+        tape monkey
+        tar and feather
+        tarball
+        tardegy
+        taste
+        tayste
+        TCB
+        TCP/IP
+        TECO
+        tee
+        teergrube
+        teledildonics
+        ten-finger interface
+        tense
+        tentacle
+        tenured graduate student
+        tera-
+        teraflop club
+        terminak
+        terminal brain death
+        terminal illness
+        terminal junkie
+        test
+        TeX
+        text
+        thanks in advance
+        That's not a bug, that's a feature!
+        the literature
+        the network
+        the X that can be Y is not the true X
+        theology
+        theory
+        thinko
+        This can't happen
+        This time, for sure!
+        thrash
+        thread
+        three-finger salute
+        throwaway account
+        thud
+        thumb
+        thundering herd problem
+        thunk
+        tick
+        tick-list features
+        tickle a bug
+        tiger team
+        time bomb
+        time sink
+        time T
+        times-or-divided-by
+        timesharing
+        TINC
+        Tinkerbell program
+        TINLC
+        tip of the ice-cube
+        tired iron
+        tits on a keyboard
+        TLA
+        TMRC
+        TMRCie
+        TMTOWTDI
+        to a first approximation
+        to a zeroth approximation
+        toad
+        toast
+        toaster
+        toeprint
+        TOFU
+        toggle
+        tool
+        toolchain
+        toolsmith
+        toor
+        top-post
+        topic drift
+        topic group
+        TOPS-10
+        TOPS-20
+        TOS
+        tourist
+        tourist information
+        touristic
+        toy
+        toy language
+        toy problem
+        toy program
+        trampoline
+        trap
+        trap door
+        trash
+        trawl
+        tree-killer
+        treeware
+        trit
+        trivial
+        troff
+        troglodyte
+        troglodyte mode
+        Trojan horse
+        troll
+        Troll-O-Meter
+        tron
+        troughie
+        true-hacker
+        tty
+        tube
+        tube time
+        tunafish
+        tune
+        turbo nerd
+        Turing tar-pit
+        turist
+        Tux
+        tweak
+        TWENEX
+        twiddle
+        twilight zone
+        twink
+        twirling baton
+        two pi
+        two-to-the-N
+
+   U
+
+        u-
+        UBD
+        UBE
+        ubergeek
+        UCE
+        UDP
+        UN*X
+        undefined external reference
+        under the hood
+        undocumented feature
+        uninteresting
+        Unix
+        Unix brain damage
+        Unix conspiracy
+        Unix weenie
+        unixism
+        unswizzle
+        unwind the stack
+        unwind-protect
+        up
+        upload
+        upstream
+        upthread
+        uptime
+        urchin
+        URL
+        Usenet
+        Usenet Death Penalty
+        user
+        user-friendly
+        user-obsequious
+        userland
+        Utah teapot, the
+        UTSL
+        UUOC
+
+   V
+
+        V7
+        vadding
+        vanilla
+        vanity domain
+        vannevar
+        vaporware
+        var
+        vaston
+        VAX
+        VAXen
+        vaxocentrism
+        vdiff
+        veeblefester
+        velveeta
+        Venus flytrap
+        verbage
+        verbiage
+        Version 7
+        vgrep
+        vi
+        video toaster
+        videotex
+        virgin
+        virtual
+        virtual beer
+        virtual Friday
+        virtual reality
+        virtual shredder
+        virus
+        visionary
+        VMS
+        voice
+        voice-net
+        voodoo programming
+        VR
+        Vulcan nerve pinch
+        vulture capitalist
+
+   W
+
+        w00t
+        wabbit
+        WAITS
+        waldo
+        walk
+        walk off the end of
+        walking drives
+        wall
+        wall follower
+        wall time
+        wall wart
+        wallhack
+        wango
+        wank
+        wannabee
+        war dialer
+        war-driving
+        war-chalking
+        -ware
+        warez
+        warez d00dz
+        warez kiddies
+        warlording
+        warm boot
+        wart
+        washing machine
+        washing software
+        water MIPS
+        wave a dead chicken
+        weasel
+        web pointer
+        web ring
+        web toaster
+        webify
+        webmaster
+        wedged
+        wedgie
+        wedgitude
+        weeble
+        weeds
+        weenie
+        Weenix
+        well-behaved
+        well-connected
+        wetware
+        whack
+        whack-a-mole
+        whacker
+        whales
+        What's a spline?
+        wheel
+        wheel bit
+        wheel of reincarnation
+        wheel wars
+        white hat
+        whitelist
+        whizzy
+        Whorfian mind-lock
+        wibble
+        WIBNI
+        widget
+        wiggles
+        wild side
+        WIMP environment
+        win
+        win big
+        win win
+        Winchester
+        windoid
+        window shopping
+        Windowsitis
+        Windoze
+        winged comments
+        winkey
+        winnage
+        winner
+        winnitude
+        Wintel
+        Wintendo
+        wired
+        wirehead
+        wirewater
+        wish list
+        within delta of
+        within epsilon of
+        wizard
+        Wizard Book
+        wizard hat
+        wizard mode
+        wizardly
+        wok-on-the-wall
+        womb box
+        WOMBAT
+        womble
+        wonky
+        workaround
+        working as designed
+        worm
+        wormhole
+        wound around the axle
+        wrap around
+        write-only code
+        write-only language
+        write-only memory
+        Wrong Thing
+        wugga wugga
+        wumpus
+        WYSIAYG
+        WYSIWYG
+
+   X
+
+        X
+        XEROX PARC
+        XOFF
+        XON
+        xor
+        xref
+        XXX
+        xyzzy
+
+   Y
+
+        YA-
+        YABA
+        YAFIYGI
+        yak shaving
+        YAUN
+        yellow card
+        yellow wire
+        Yet Another
+        YHBT
+        YKYBHTLW
+        YMMV
+        You are not expected to understand this
+        You know you've been hacking too long when
+        Your mileage may vary
+        Yow!
+        yoyo mode
+        Yu-Shiang Whole Fish
+
+   Z
+
+        zap
+        zapped
+        Zawinski's Law
+        zbeba
+        zen
+        zero
+        zero-content
+        Zero-One-Infinity Rule
+        zeroth
+        zigamorph
+        zip
+        zipperhead
+        zombie
+        zorch
+        Zork
+        zorkmid
+
 0
+
+   (TM)
+   /dev/null
+   /me
+   0
+   1TBS
+   2
+   404
+   404 compliant
+   @-party
 
 :(TM): //
 
@@ -2002,6 +4388,71 @@ Glossary
    a tradition of formation jumps in the shape of an @.
 
 A
+
+   abbrev
+   ABEND
+   accumulator
+   ACK
+   Acme
+   ad-hockery
+   address harvester
+   adger
+   admin
+   ADVENT
+   adware
+   AFAIK
+   AFJ
+   AFK
+   AI
+   AI-complete
+   airplane rule
+   Alderson loop
+   aliasing bug
+   Alice and Bob
+   All hardware sucks, all software sucks.
+   all your base are belong to us
+   alpha geek
+   alpha particles
+   alt
+   alt bit
+   Aluminum Book
+   ambimouseterous
+   Amiga
+   Amiga Persecution Complex
+   amp off
+   amper
+   and there was much rejoicing
+   Angband
+   angle brackets
+   angry fruit salad
+   annoybot
+   annoyware
+   ANSI standard
+   ANSI standard pizza
+   anti-idiotarianism
+   AOL!
+   app
+   Archimedes
+   arena
+   arg
+   ARMM
+   armor-plated
+   asbestos
+   asbestos cork award
+   asbestos longjohns
+   ASCII
+   ASCII art
+   ASCIIbetical order
+   astroturfing
+   atomic
+   attoparsec
+   Aunt Tillie
+   AUP
+   autobogotiphobia
+   autoconfiscate
+   automagically
+   avatar
+   awk
 
 :abbrev: /@·breev´/, /@·brev´/, n.
 
@@ -3051,13 +5502,227 @@ IIIIIII[_]IIIII[_]IIIIIL___J__II__|_|__II__L___JIIIII[_]IIIII[_]IIIIIIII[_]
 
 B
 
+   B1FF
+   B5
+   back door
+   backbone cabal
+   backbone site
+   backgammon
+   background
+   backreference
+   backronym
+   backward combatability
+   BAD
+   Bad and Wrong
+   Bad Thing
+   bag on the side
+   bagbiter
+   bagbiting
+   baggy pantsing
+   balloonian variable
+   bamf
+   banana problem
+   bandwidth
+   bang
+   bang on
+   bang path
+   banner
+   banner ad
+   banner site
+   bar
+   bare metal
+   barf
+   barfmail
+   barfulation
+   barfulous
+   barn
+   barney
+   baroque
+   BASIC
+   batbelt
+   batch
+   bathtub curve
+   Batman factor
+   baud
+   baz
+   bazaar
+   bboard
+   BBS
+   BCPL
+   BDFL
+   beam
+   beanie key
+   beep
+   Befunge
+   beige toaster
+   bells and whistles
+   bells whistles and gongs
+   benchmark
+   Berkeley Quality Software
+   Berzerkeley
+   beta
+   BFI
+   BI
+   bible
+   BiCapitalization
+   biff
+   big iron
+   Big Red Switch
+   Big Room
+   big win
+   big-endian
+   bignum
+   bigot
+   bikeshedding
+   binary four
+   bit
+   bit bashing
+   bit bucket
+   bit decay
+   bit rot
+   bit twiddling
+   bit-paired keyboard
+   bitblt
+   bits
+   bitty box
+   bixie
+   black art
+   black hat
+   black hole
+   black magic
+   Black Screen of Death
+   blammo
+   blargh
+   blast
+   blat
+   bletch
+   bletcherous
+   blinkenlights
+   blit
+   blitter
+   blivet
+   bloatware
+   BLOB
+   block
+   blog
+   Bloggs Family
+   blogosphere
+   blogrolling
+   blow an EPROM
+   blow away
+   blow out
+   blow past
+   blow up
+   BLT
+   blue box
+   Blue Glue
+   blue goo
+   Blue Screen of Death
+   blue wire
+   blurgle
+   BNF
+   boa
+   board
+   boat anchor
+   bob
+   bodge
+   BOF
+   BOFH
+   bogo-sort
+   bogometer
+   BogoMIPS
+   bogon
+   bogon filter
+   bogon flux
+   bogosity
+   bogotify
+   bogue out
+   bogus
+   Bohr bug
+   boink
+   bomb
+   bondage-and-discipline language
+   bonk/oif
+   book titles
+   boot
+   Borg
+   borken
+   bot
+   bottom feeder
+   bottom-post
+   bottom-up implementation
+   bounce
+   bounce message
+   boustrophedon
+   box
+   boxed comments
+   boxen
+   boxology
+   bozotic
+   brain dump
+   brain fart
+   brain-damaged
+   brain-dead
+   braino
+   brainwidth
+   bread crumbs
+   break
+   break-even point
+   breath-of-life packet
+   breedle
+   Breidbart Index
+   bricktext
+   bring X to its knees
+   brittle
+   broadcast storm
+   broken
+   broken arrow
+   broken-ring network
+   BrokenWindows
+   broket
+   Brooks's Law
+   brown-paper-bag bug
+   browser
+   BRS
+   brute force
+   brute force and ignorance
+   BSD
+   BSOD
+   BUAF
+   BUAG
+   bubble sort
+   bucky bits
+   buffer chuck
+   buffer overflow
+   bug
+   bug-compatible
+   bug-for-bug compatible
+   bug-of-the-month club
+   bulletproof
+   bullschildt
+   bump
+   burble
+   buried treasure
+   burn a CD
+   burn-in period
+   burst page
+   busy-wait
+   buzz
+   buzzword-compliant
+   BWQ
+   by hand
+   byte
+   byte sex
+   bytesexual
+   Bzzzt! Wrong.
+
 :B1FF: /bif/, BIFF, n.
 
    The  most  famous  {pseudo},  and the prototypical {newbie}. Articles
    from  B1FF  feature  all  uppercase  letters sprinkled liberally with
    bangs,  typos,  `cute' misspellings (EVRY BUDY LUVS GOOD OLD BIFF CUZ
-   KØ}@oslash;L  DOOD  AN HE RITES REEL AWESUM THINGZ IN CAPITULL LETTRS
-   LIKE  THIS!!!),  use  (and  often misuse) of fragments of {talk mode}
+   KØØL  DOOD  AN  HE  RITES  REEL AWESUM THINGZ IN CAPITULL LETTRS LIKE
+   THIS!!!),  use  (and  often  misuse)  of  fragments  of  {talk  mode}
    abbreviations,  a  long {sig block} (sometimes even a {doubled sig}),
    and  unbounded naivete. B1FF posts articles using his elder brother's
    VIC-20.  B1FF's location is a mystery, as his articles appear to come
@@ -4001,14 +6666,13 @@ B
    Sense 1 may require some explanation. Most computer languages provide
    a kind of data called integer, but such computer integers are usually
    very  limited  in  size;  usually  they  must  be  smaller  than 2^31
-   (2,147,483,648)  or  (on a {bitty box}) 2^15 (32,768). If you want to
-   work  with  numbers  larger than that, you have to use floating-point
-   numbers,  which  are  usually  accurate  to only six or seven decimal
-   places.  Computer  languages  that  provide bignums can perform exact
-   calculations  on  very large numbers, such as 1000! (the factorial of
-   1000,  which  is 1000 times 999 times 998 times ... times 2 times 1).
-   For  example, this value for 1000! was computed by the MacLISP system
-   using bignums:
+   (2,147,483,648).  If  you want to work with numbers larger than that,
+   you have to use floating-point numbers, which are usually accurate to
+   only  six  or  seven  decimal places. Computer languages that provide
+   bignums can perform exact calculations on very large numbers, such as
+   1000! (the factorial of 1000, which is 1000 times 999 times 998 times
+   ...  times 2 times 1). For example, this value for 1000! was computed
+   by the MacLISP system using bignums:
 
    40238726007709377354370243392300398571937486421071
    46325437999104299385123986290205920442084869694048
@@ -4468,17 +7132,18 @@ bits     0001  0011  0101  0111  1001  1011  1101  1111
    entirety as follows:
 
                      ACHTUNG!  ALLES LOOKENSPEEPERS!
+   Alles touristen und non-technischen looken peepers!
    Das computermachine ist nicht fuer gefingerpoken und mittengrabben.
    Ist easy schnappen der springenwerk, blowenfusen und poppencorken
    mit spitzensparken.  Ist nicht fuer gewerken bei das dumpkopfen.
    Das rubbernecken sichtseeren keepen das cotten-pickenen hans in das
    pockets muss; relaxen und watchen das blinkenlichten.
 
-   This  silliness  dates  back  at  least  as  far  as 1959 at Stanford
-   University  and  had  already  gone international by the early 1960s,
-   when  it  was  reported  at London University's ATLAS computing site.
-   There  are  several  variants  of  it  in  circulation, some of which
-   actually do end with the word `blinkenlights'.
+   This  silliness  dates  back  at  least as far as 1955 at IBM and had
+   already  gone  international by the early 1960s, when it was reported
+   at  London  University's  ATLAS  computing  site.  There  are several
+   variants of it in circulation, some of which actually do end with the
+   word `blinkenlights'.
 
    In  an amusing example of turnabout-is-fair-play, German hackers have
    developed their own versions of the blinkenlights poster in fractured
@@ -6165,6 +8830,195 @@ bits     0001  0011  0101  0111  1001  1011  1101  1111
    common; capitalization and emphasis of the buzzer sound varies.
 
 C
+
+   C
+   C Programmer's Disease
+   C&C
+   C++
+   calculator
+   Camel Book
+   camelCase
+   camelCasing
+   can't happen
+   cancelbot
+   Cancelmoose[tm]
+   candygrammar
+   canonical
+   careware
+   cargo cult programming
+   cascade
+   case and paste
+   case mod
+   casters-up mode
+   casting the runes
+   cat
+   catatonic
+   cathedral
+   cd tilde
+   CDA
+   cdr
+   chad
+   chad box
+   chain
+   chainik
+   channel
+   channel hopping
+   channel op
+   chanop
+   char
+   charityware
+   chase pointers
+   chawmp
+   check
+   cheerfully
+   chemist
+   Chernobyl chicken
+   Chernobyl packet
+   chicken head
+   chickenboner
+   chiclet keyboard
+   Chinese Army technique
+   choad
+   choke
+   chomp
+   chomper
+   CHOP
+   Christmas tree
+   Christmas tree packet
+   chrome
+   chug
+   Church of the SubGenius
+   CI$
+   Cinderella Book
+   Classic C
+   clean
+   click of death
+   CLM
+   clobber
+   clock
+   clocks
+   clone
+   clone-and-hack coding
+   clover key
+   clue-by-four
+   clustergeeking
+   co-lo
+   coaster
+   coaster toaster
+   COBOL
+   COBOL fingers
+   cobweb site
+   code
+   code grinder
+   code monkey
+   Code of the Geeks
+   code police
+   codes
+   codewalker
+   coefficient of X
+   cokebottle
+   cold boot
+   COME FROM
+   comm mode
+   command key
+   comment out
+   Commonwealth Hackish
+   compact
+   compiler jock
+   compo
+   compress
+   Compu$erve
+   computer confetti
+   computron
+   con
+   condition out
+   condom
+   confuser
+   connector conspiracy
+   cons
+   considered harmful
+   console
+   console jockey
+   content-free
+   control-C
+   control-O
+   control-Q
+   control-S
+   Conway's Law
+   cookbook
+   cooked mode
+   cookie
+   cookie bear
+   cookie file
+   cookie jar
+   cookie monster
+   copious free time
+   copper
+   copy protection
+   copybroke
+   copycenter
+   copyleft
+   copyparty
+   copywronged
+   core
+   core cancer
+   core dump
+   core leak
+   Core Wars
+   cosmic rays
+   cough and die
+   courier
+   cow orker
+   cowboy
+   CP/M
+   CPU Wars
+   crack
+   crack root
+   cracker
+   cracking
+   crank
+   crapplet
+   CrApTeX
+   crash
+   crash and burn
+   crawling horror
+   CRC handbook
+   creationism
+   creep
+   creeping elegance
+   creeping featurism
+   creeping featuritis
+   cretin
+   cretinous
+   crippleware
+   critical mass
+   crlf
+   crock
+   cross-post
+   crossload
+   crudware
+   cruft
+   cruft together
+   cruftsmanship
+   crufty
+   crumb
+   crunch
+   cryppie
+   cthulhic
+   CTSS
+   cube
+   cup holder
+   cursor dipped in X
+   cuspy
+   cut a tape
+   cybercrud
+   cyberpunk
+   cyberspace
+   cycle
+   cycle of reincarnation
+   cycle server
+   cypherpunk
+   C|N>K
 
 :C: n.
 
@@ -8559,6 +11413,139 @@ C original DO statement lost in the spaghetti...
 
 D
 
+   daemon
+   daemon book
+   dahmum
+   dancing frog
+   dangling pointer
+   dark-side hacker
+   Datamation
+   DAU
+   Dave the Resurrector
+   day mode
+   dd
+   DDT
+   de-rezz
+   dead
+   dead beef attack
+   dead code
+   dead-tree version
+   DEADBEEF
+   deadlock
+   deadly embrace
+   death code
+   Death Square
+   Death Star
+   Death, X of
+   DEC
+   DEC Wars
+   decay
+   deckle
+   DED
+   deep hack mode
+   deep magic
+   deep space
+   defenestration
+   defined as
+   deflicted
+   dehose
+   Dejagoo
+   deletia
+   deliminator
+   delint
+   delta
+   demented
+   demigod
+   demo
+   demo mode
+   demoeffect
+   demogroup
+   demon
+   demon dialer
+   demoparty
+   demoscene
+   dentro
+   depeditate
+   deprecated
+   derf
+   deserves to lose
+   despew
+   dickless workstation
+   dictionary flame
+   diddle
+   die
+   die horribly
+   diff
+   dike
+   Dilbert
+   ding
+   dink
+   dinosaur
+   dinosaur pen
+   dinosaurs mating
+   dirtball
+   dirty power
+   disclaimer
+   Discordianism
+   disemvowel
+   disk farm
+   display hack
+   dispress
+   Dissociated Press
+   distribution
+   distro
+   disusered
+   DMZ
+   do protocol
+   doc
+   documentation
+   dodgy
+   dogcow
+   dogfood
+   dogpile
+   dogwash
+   Don't do that then!
+   dongle
+   dongle-disk
+   Doom, X of
+   doorstop
+   DoS attack
+   dot file
+   double bucky
+   doubled sig
+   down
+   download
+   DP
+   DPer
+   Dr. Fred Mbogo
+   dragon
+   Dragon Book
+   drain
+   dread high-bit disease
+   dread questionmark disease
+   DRECNET
+   driver
+   droid
+   drone
+   drool-proof paper
+   drop on the floor
+   drop-ins
+   drop-outs
+   drugged
+   drum
+   drunk mouse syndrome
+   DSW
+   dub dub dub
+   Duff's device
+   dumb terminal
+   dumbass attack
+   dumbed down
+   dump
+   dumpster diving
+   dusty deck
+   DWIM
+   dynner
+
 :daemon: /day´mn/, /dee´mn/, n.
 
    [from  Maxwell's  Demon,  later  incorrectly  retronymed as `Disk And
@@ -8723,6 +11710,7 @@ D
    direct  ancestor of the PDP-1 built at MIT's Lincoln Lab in 1957. The
    debugger  on  that  ground-breaking machine (the first transistorized
    computer) rejoiced in the name FLIT (FLexowriter Interrogation Tape).
+   Flit was for many years the trade-name of a popular insecticide.
 
 :de-rezz: /dee·rez´/
 
@@ -10267,6 +13255,62 @@ D
 
 E
 
+   Easter egg
+   Easter egging
+   eat flaming death
+   EBCDIC
+   ECP
+   ed
+   egg
+   egosurf
+   eighty-column mind
+   El Camino Bignum
+   elder days
+   elegant
+   elephantine
+   elevator controller
+   elite
+   ELIZA effect
+   elvish
+   EMACS
+   email
+   emoticon
+   EMP
+   empire
+   engine
+   English
+   enhancement
+   ENQ
+   EOD
+   EOF
+   EOL
+   EOU
+   epoch
+   epsilon
+   epsilon squared
+   era
+   Eric Conspiracy
+   Eris
+   erotics
+   error 33
+   eurodemo
+   evil
+   evil and rude
+   Evil Empire
+   exa-
+   examining the entrails
+   EXCH
+   excl
+   EXE
+   exec
+   exercise, left as an
+   Exon
+   Exploder
+   exploit
+   external memory
+   eye candy
+   eyeball search
+
 :Easter egg: n.
 
    [from the custom of the Easter Egg hunt observed in the U.S. and many
@@ -10695,6 +13739,12 @@ E
    person felt interruptible. Compare {ping}, {finger}, and the usage of
    FOO? listed under {talk mode}.
 
+:EOD: n.
+
+   [IRC,  Usenet] Abbreviation: End of Discussion. Used when the speaker
+   believes  he  has  stated  his  case  and will not respond to further
+   arguments or attacks.
+
 :EOF: /E·O·F/, n.
 
    [abbreviation, `End Of File']
@@ -10977,6 +14027,159 @@ E
    a {vgrep}; compare {vdiff}.
 
 F
+
+   face time
+   factor
+   fairings
+   fall over
+   fall through
+   fan
+   fandango on core
+   FAQ
+   FAQ list
+   FAQL
+   faradize
+   farkled
+   farm
+   fascist
+   fat electrons
+   fat pipe
+   fat-finger
+   faulty
+   fear and loathing
+   feature
+   feature creature
+   feature creep
+   feature key
+   feature shock
+   featurectomy
+   feep
+   feeper
+   feeping creature
+   feeping creaturism
+   feetch feetch
+   fence
+   fencepost error
+   fiber-seeking backhoe
+   FidoNet
+   field circus
+   field servoid
+   file signature
+   filk
+   film at 11
+   filter
+   Finagle's Law
+   fine
+   finger
+   finger trouble
+   finger-pointing syndrome
+   finn
+   firebottle
+   firefighting
+   firehose syndrome
+   firewall code
+   firewall machine
+   fireworks mode
+   firmware
+   fish
+   FISH queue
+   fisking
+   FITNR
+   fix
+   FIXME
+   flag
+   flag day
+   flaky
+   flamage
+   flame
+   flame bait
+   flame on
+   flame war
+   flamer
+   flap
+   flarp
+   flash crowd
+   flat
+   flat-ASCII
+   flat-file
+   flatten
+   flavor
+   flavorful
+   flippy
+   flood
+   flowchart
+   flower key
+   flush
+   flypage
+   Flyspeck 3
+   flytrap
+   FM
+   fnord
+   FOAF
+   FOD
+   fold case
+   followup
+   fontology
+   foo
+   foobar
+   fool
+   fool file
+   Foonly
+   footprint
+   for free
+   for the rest of us
+   for values of
+   fora
+   foreground
+   fork
+   fork bomb
+   forked
+   Formosa's Law
+   Fortrash
+   fortune cookie
+   forum
+   fossil
+   four-color glossies
+   frag
+   fragile
+   Frankenputer
+   fred
+   Fred Foobar
+   frednet
+   free software
+   freeware
+   freeze
+   fried
+   frink
+   friode
+   fritterware
+   frob
+   frobnicate
+   frobnitz
+   frog
+   frogging
+   front end
+   frotz
+   frotzed
+   frowney
+   FRS
+   fry
+   fscking
+   FSF
+   -fu
+   FUBAR
+   fuck me harder
+   FUD
+   FUD wars
+   fudge
+   fudge factor
+   fuel up
+   Full Monty
+   fum
+   functino
+   funky
+   funny money
+   furrfu
 
 :face time: n.
 
@@ -12406,6 +15609,14 @@ F
    Terminally  slow, or dead. Originated when one system was slowed to a
    snail's pace by an inadvertent {fork bomb}.
 
+:Formosa's Law: n.
+
+   "The  truly  insane  have enough on their plates without us adding to
+   it."  That  is,  flaming someone with an obvious mental problem can't
+   make  it any better. Most often cited on alt.usenet.kooks as a reason
+   not to issue a Kook-of the-Month Award; often cited as a companion to
+   {Godwin's Law}.
+
 :Fortrash: /for´trash/, n.
 
    Hackerism for the FORTRAN (FORmula TRANslator) language, referring to
@@ -12920,6 +16131,116 @@ F
 
 G
 
+   G
+   gang bang
+   Gang of Four
+   garbage collect
+   garply
+   gas
+   Gates's Law
+   gawble
+   GC
+   GCOS
+   GECOS
+   gedanken
+   geef
+   geek
+   geek code
+   geek out
+   geekasm
+   gen
+   gender mender
+   General Public Virus
+   generate
+   Genius From Mars Technique
+   gensym
+   Get a life!
+   Get a real computer!
+   GandhiCon
+   gib
+   GIFs at 11
+   gig
+   giga-
+   GIGO
+   gilley
+   gillion
+   ginger
+   GIPS
+   GIYF
+   glark
+   glass
+   glass tty
+   glassfet
+   glitch
+   glob
+   glork
+   glue
+   gnarly
+   GNU
+   gnubie
+   GNUMACS
+   go flatline
+   go gold
+   go root
+   go-faster stripes
+   GoAT
+   goat file
+   gobble
+   Godwin's Law
+   Godzillagram
+   golden
+   golf-ball printer
+   gonk
+   gonkulator
+   gonzo
+   Good Thing
+   google
+   google juice
+   gopher
+   gopher hole
+   gorets
+   gorilla arm
+   gorp
+   GOSMACS
+   gotcha
+   GPL
+   GPV
+   gray goo
+   gray hat
+   Great Internet Explosion
+   Great Renaming
+   Great Runes
+   Great Worm
+   great-wall
+   green bytes
+   green card
+   green lightning
+   green machine
+   Green's Theorem
+   greenbar
+   grep
+   gribble
+   grilf
+   grind
+   grind crank
+   gritch
+   grok
+   gronk
+   gronk out
+   gronked
+   grovel
+   grue
+   grunge
+   gubbish
+   Guido
+   guiltware
+   gumby
+   gunch
+   gunpowder chicken
+   guru
+   guru meditation
+   gweep
+
 :G: pref.,suff.
 
    1. [SI] See {quantifiers}.
@@ -13273,10 +16594,10 @@ G
 
    In  hacker  usage this quote has miscegenated with the U.S military's
    DefCon  terminology describing `defense conditions' or degrees of war
-   alert.  At  GhandiCon  One,  you're  being ignored. At GhandiCon Two,
+   alert.  At  GandhiCon  One,  you're  being ignored. At GandhiCon Two,
    opponents  are laughing at you and dismissing the idea that you could
-   ever  be  a  threat.  At GhandiCon Three, they're fighting you on the
-   merits  and/or attempting to discredit you. At GhandiCon Four, you're
+   ever  be  a  threat.  At GandhiCon Three, they're fighting you on the
+   merits  and/or attempting to discredit you. At GandhiCon Four, you're
    winning  and  they  are  arguing  to  save face or stave off complete
    collapse of their position.
 
@@ -13343,6 +16664,12 @@ G
    `Gillions  of Instructions per Second'; see {gillion}). In 1991, this
    is  used  of  only a handful of highly parallel machines, but this is
    expected to change. Compare {KIPS}.
+
+:GIYF: n.
+
+   Abbrev:  Google Is Your Friend. Used to suggest, gently and politely,
+   that  you  have just asked a question of human beings that would have
+   been better directed to a search engine. See also {STFW}.
 
 :glark: /glark/, vt.
 
@@ -13538,7 +16865,7 @@ G
 
    A  sacrificial  file  used  to  test  a  computer virus, i.e. a dummy
    executable  that carries a sample of the virus, isolated so it can be
-   atudied.  Not  common  among hackers, since the Unix systems most use
+   studied.  Not  common  among hackers, since the Unix systems most use
    basically don't get viruses.
 
 :gobble: vt.
@@ -13560,7 +16887,7 @@ G
    However   there  is  also  a  widely-  recognized  codicil  that  any
    intentional  triggering  of  Godwin's  Law  in  order  to  invoke its
    thread-ending  effects  will  be  unsuccessful.  Godwin  himself  has
-   discussed the subject.
+   discussed the subject. See also {Formosa's Law}.
 
 :Godzillagram: /god·zil'@·gram/, n.
 
@@ -13919,7 +17246,7 @@ G
 :grilf: //, n.
 
    Girlfriend. Like {newsfroup} and {filk}, a typo reincarnated as a new
-   word.  Seems  to  have  originated  sometime  in 1992 on {Usenet}. [A
+   word.  Seems  to  have  originated  sometime  in 1990 on {Usenet}. [A
    friend  tells  me  there  was a Lloyd Biggle SF novel Watchers Of The
    Dark,  in which alien species after species goes insane and begins to
    chant  "Grilf!  Grilf!". A human detective eventually determines that
@@ -14183,6 +17510,108 @@ G
 
 H
 
+   h
+   ha ha only serious
+   hack
+   hack attack
+   hack mode
+   hack on
+   hack together
+   hack up
+   hack value
+   hacked off
+   hacked up
+   hacker
+   hacker ethic
+   hacker humor
+   Hackers (the movie)
+   hacking run
+   Hacking X for Y
+   Hackintosh
+   hackish
+   hackishness
+   hackitude
+   hair
+   hairball
+   hairy
+   HAKMEM
+   hakspek
+   Halloween Documents
+   ham
+   hammer
+   hamster
+   HAND
+   hand cruft
+   hand-hacking
+   hand-roll
+   handle
+   handshaking
+   handwave
+   hang
+   Hanlon's Razor
+   happily
+   hard boot
+   hardcoded
+   hardwarily
+   hardwired
+   has the X nature
+   hash bucket
+   hash collision
+   hat
+   HCF
+   heads down
+   heartbeat
+   heatseeker
+   heavy metal
+   heavy wizardry
+   heavyweight
+   Hed Rat
+   heisenbug
+   hell desk
+   hello sailor!
+   hello world
+   hello, wall!
+   hex
+   hexadecimal
+   hexit
+   HHOK
+   HHOS
+   hidden flag
+   high bit
+   high moby
+   highly
+   hing
+   hired gun
+   hirsute
+   HLL
+   hoarding
+   hog
+   hole
+   hollised
+   holy penguin pee
+   holy wars
+   home box
+   home machine
+   home page
+   honey pot
+   hook
+   hop
+   horked
+   hose
+   hosed
+   hot chat
+   hot spot
+   hotlink
+   house wizard
+   HP-SUX
+   HTH
+   huff
+   hung
+   hungry puppy
+   hungus
+   hyperspace
+   hysterical reasons
+
 :h:
 
    [from  SF  fandom]  A method of `marking' common words, i.e., calling
@@ -14348,7 +17777,10 @@ H
 
    1.  A person who enjoys exploring the details of programmable systems
    and  how to stretch their capabilities, as opposed to most users, who
-   prefer to learn only the minimum necessary.
+   prefer  to  learn  only  the minimum necessary. RFC1392, the Internet
+   Users' Glossary, usefully amplifies this as: A person who delights in
+   having  an  intimate  understanding  of  the  internal  workings of a
+   system, computers and computer networks in particular.
 
    2. One who programs enthusiastically (even obsessively) or who enjoys
    programming rather than just theorizing about programming.
@@ -15466,6 +18898,60 @@ H
 
 I
 
+   I didn't change anything!
+   I see no X here.
+   IANAL
+   IBM
+   ICBM address
+   ice
+   ID10T error
+   idempotent
+   IDP
+   If you want X, you know where to find it.
+   ifdef out
+   IIRC
+   ill-behaved
+   IMHO
+   Imminent Death Of The Net Predicted!
+   in the extreme
+   incantation
+   include
+   include war
+   indent style
+   Indent-o-Meter
+   index of X
+   infant mortality
+   infinite
+   infinite loop
+   Infinite-Monkey Theorem
+   infinity
+   inflate
+   Infocom
+   initgame
+   insanely great
+   installfest
+   INTERCAL
+   InterCaps
+   interesting
+   Internet
+   Internet Death Penalty
+   Internet Exploder
+   Internet Exploiter
+   interrupt
+   interrupts locked out
+   intertwingled
+   intro
+   IRC
+   iron
+   Iron Age
+   iron box
+   ironmonger
+   ISO standard cup of tea
+   ISP
+   ITS
+   IWBNI
+   IYFEG
+
 :I didn't change anything!: interj.
 
    An  aggrieved  cry  often  heard as bugs manifest during a regression
@@ -16182,6 +19668,26 @@ I
 
 J
 
+   J. Random
+   J. Random Hacker
+   jack in
+   jaggies
+   Java
+   JCL
+   JEDR
+   Jeff K.
+   jello
+   Jeopardy-style quoting
+   jibble
+   jiffy
+   job security
+   jock
+   joe code
+   juggling eggs
+   juice
+   jump off into never-never land
+   jupiter
+
 :J. Random: /J rand´m/, n.
 
    [common;  generalized  from  {J. Random Hacker}] Arbitrary; ordinary;
@@ -16427,6 +19933,43 @@ J
    user. Now commonly shortened to jupe.
 
 K
+
+   K
+   K&R
+   k-
+   kahuna
+   kamikaze packet
+   kangaroo code
+   ken
+   kernel-of-the-week club
+   kgbvax
+   KIBO
+   kiboze
+   kibozo
+   kick
+   kill file
+   killer app
+   killer micro
+   killer poke
+   kilo-
+   kilogoogle
+   KIPS
+   KISS Principle
+   kit
+   KLB
+   klone
+   kludge
+   kluge
+   kluge around
+   kluge up
+   Knights of the Lambda Calculus
+   knobs
+   Knuth
+   koan
+   kook
+   Kool-Aid
+   kremvax
+   kyrka
 
 :K: /K/, n.
 
@@ -16881,6 +20424,83 @@ K
    [Swedish] See {feature key}.
 
 L
+
+   lag
+   lamer
+   LAN party
+   language lawyer
+   languages of choice
+   LART
+   larval stage
+   lase
+   laser chicken
+   leaf site
+   leak
+   leaky heap
+   leapfrog attack
+   leech
+   leech mode
+   legal
+   legalese
+   lenna
+   LER
+   LERP
+   let the smoke out
+   letterbomb
+   lexer
+   life
+   Life is hard
+   light pipe
+   lightweight
+   like kicking dead whales down the beach
+   like nailing jelly to a tree
+   line 666
+   line eater, the
+   line noise
+   linearithmic
+   link farm
+   link rot
+   link-dead
+   lint
+   Lintel
+   Linus
+   Linux
+   lion food
+   Lions Book
+   LISP
+   list-bomb
+   lithium lick
+   little-endian
+   live
+   live data
+   Live Free Or Die!
+   livelock
+   liveware
+   lobotomy
+   locals, the
+   locked and loaded
+   locked up
+   logic bomb
+   logical
+   loop through
+   loose bytes
+   lord high fixer
+   lose
+   lose lose
+   loser
+   losing
+   loss
+   lossage
+   lossy
+   lost in the noise
+   lost in the underflow
+   lots of MIPS but no I/O
+   low-bandwidth
+   Lubarsky's Law of Cybernetic Entomology
+   Lumber Cartel
+   lunatic fringe
+   lurker
+   luser
 
 :lag: n.
 
@@ -17784,6 +21404,135 @@ L
    {muggle}, {newbie}, {chainik}.
 
 M
+
+   M
+   M$
+   macdink
+   machoflops
+   Macintoy
+   Macintrash
+   macro
+   macro-
+   macrology
+   maggotbox
+   magic
+   magic cookie
+   magic number
+   magic smoke
+   mail storm
+   mailbomb
+   mailing list
+   main loop
+   mainframe
+   mainsleaze
+   man page
+   management
+   mandelbug
+   manged
+   mangle
+   mangled name
+   mangler
+   manularity
+   marching ants
+   marbles
+   marginal
+   marginally
+   marketroid
+   Mars
+   martian
+   massage
+   math-out
+   Matrix
+   maximum Maytag mode
+   McQuary limit
+   meatspace
+   meatware
+   meeces
+   meg
+   mega-
+   megapenny
+   MEGO
+   meltdown, network
+   meme
+   meme plague
+   memetics
+   memory farts
+   memory leak
+   memory smash
+   menuitis
+   mess-dos
+   meta
+   meta bit
+   metasyntactic variable
+   MFTL
+   mickey
+   mickey mouse program
+   micro-
+   MicroDroid
+   microfortnight
+   microLenat
+   microReid
+   microserf
+   Microsloth Windows
+   Microsoft
+   micros~1
+   middle-endian
+   middle-out implementation
+   milliLampson
+   minor detail
+   MIPS
+   misbug
+   misfeature
+   missile address
+   MiSTing
+   miswart
+   MMF
+   mobo
+   moby
+   mockingbird
+   mod
+   mode
+   mode bit
+   modulo
+   mojibake
+   molly-guard
+   Mongolian Hordes technique
+   monkey up
+   monkey, scratch
+   monstrosity
+   monty
+   Moof
+   Moore's Law
+   moria
+   MOTAS
+   MOTOS
+   MOTSS
+   mouse ahead
+   mouse belt
+   mouse droppings
+   mouse elbow
+   mouse pusher
+   mouso
+   MS-DOS
+   mu
+   MUD
+   muddie
+   mudhead
+   muggle
+   Multics
+   multitask
+   mumblage
+   mumble
+   munch
+   munching
+   munching squares
+   munchkin
+   mundane
+   mung
+   munge
+   Murphy's Law
+   music
+   mutter
 
 :M: pref.
 
@@ -19526,6 +23275,84 @@ M
 
 N
 
+   N
+   nadger
+   nagware
+   nailed to the wall
+   nailing jelly
+   naive
+   naive user
+   NAK
+   NANA
+   nano
+   nano-
+   nanoacre
+   nanobot
+   nanocomputer
+   nanofortnight
+   nanotechnology
+   narg
+   nasal demons
+   nastygram
+   Nathan Hale
+   nature
+   neat hack
+   neats vs. scruffies
+   neep-neep
+   neophilia
+   nerd
+   nerd knob
+   net.-
+   net.god
+   net.personality
+   net.police
+   netburp
+   netdead
+   nethack
+   netiquette
+   netlag
+   netnews
+   Netscrape
+   netsplit
+   netter
+   network address
+   network meltdown
+   New Jersey
+   New Testament
+   newbie
+   newgroup wars
+   newline
+   NeWS
+   newsfroup
+   newsgroup
+   nick
+   nickle
+   night mode
+   Nightmare File System
+   NIL
+   Ninety-Ninety Rule
+   nipple mouse
+   NMI
+   no-op
+   noddy
+   non-optimal solution
+   nonlinear
+   nontrivial
+   not entirely unlike X
+   not ready for prime time
+   notwork
+   NP-
+   NSA line eater
+   NSP
+   nude
+   nugry
+   nuke
+   number-crunching
+   numbers
+   NUXI problem
+   nybble
+   nyetwork
+
 :N: /N/, quant.
 
    1. A large and indeterminate number of objects: "There were N bugs in
@@ -20406,6 +24233,52 @@ N
 
 O
 
+   Ob-
+   Obfuscated C Contest
+   obi-wan error
+   Objectionable-C
+   obscure
+   octal forty
+   off the trolley
+   off-by-one error
+   offline
+   ogg
+   -oid
+   old fart
+   Old Testament
+   on the gripping hand
+   one-banana problem
+   one-line fix
+   one-liner wars
+   ooblick
+   OP
+   op
+   open
+   open source
+   open switch
+   operating system
+   operator headspace
+   optical diff
+   optical grep
+   optimism
+   Oracle, the
+   Orange Book
+   oriental food
+   orphan
+   orphaned i-node
+   orthogonal
+   OS
+   OS/2
+   OSS
+   OT
+   OTOH
+   out-of-band
+   overclock
+   overflow bit
+   overrun
+   overrun screw
+   owned
+
 :Ob-: /ob/, pref.
 
    Obligatory. A piece of {netiquette} acknowledging that the author has
@@ -20995,6 +24868,144 @@ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
    this sense.
 
 P
+
+   P.O.D.
+   packet over air
+   padded cell
+   page in
+   page out
+   pain in the net
+   paper-net
+   param
+   PARC
+   parent message
+   parity errors
+   Parkinson's Law of Data
+   parm
+   parse
+   Pascal
+   PascalCasing
+   pastie
+   patch
+   patch pumpkin
+   patch space
+   path
+   pathological
+   payware
+   PBD
+   PD
+   PDP-10
+   PDP-11
+   PDP-20
+   PEBKAC
+   peek
+   pencil and paper
+   Pentagram Pro
+   Pentium
+   peon
+   percent-S
+   perf
+   perfect programmer syndrome
+   Perl
+   person of no account
+   pessimal
+   pessimizing compiler
+   peta-
+   pffft
+   PFY
+   phage
+   phase
+   phase of the moon
+   phase-wrapping
+   PHB
+   phreaker
+   phreaking
+   pico-
+   pig-tail
+   pilot error
+   ping
+   Ping O' Death
+   ping storm
+   pink contract
+   pink wire
+   pipe
+   pistol
+   pixel sort
+   pizza box
+   plaid screen
+   plain-ASCII
+   Plan 9
+   plan file
+   platinum-iridium
+   playpen
+   playte
+   plokta
+   plonk
+   plug-and-pray
+   plugh
+   plumbing
+   PM
+   point-and-drool interface
+   pointy hat
+   pointy-haired
+   poke
+   poll
+   polygon pusher
+   POM
+   ponytail
+   pop
+   poser
+   post
+   postcardware
+   Postel's Prescription
+   posting
+   postmaster
+   PostScript
+   pound on
+   power cycle
+   power hit
+   pr0n
+   precedence lossage
+   pred
+   prepend
+   prestidigitization
+   pretty pictures
+   prettyprint
+   pretzel key
+   priesthood
+   prime time
+   print
+   printing discussion
+   priority interrupt
+   profile
+   progasm
+   proggy
+   proglet
+   program
+   Programmer's Cheer
+   programming
+   programming fluid
+   propeller head
+   propeller key
+   proprietary
+   protocol
+   provocative maintenance
+   prowler
+   pseudo
+   pseudoprime
+   pseudosuit
+   psychedelicware
+   psyton
+   pubic directory
+   puff
+   pumpkin holder
+   pumpking
+   punched card
+   punt
+   Purple Book
+   purple wire
+   push
+   Python
 
 :P.O.D.: /P·O·D/
 
@@ -21794,10 +25805,10 @@ P
    9 in "the Bell Labs tradition of selecting names that make marketeers
    wince."  The developers also wished to pay homage to the famous film,
    "Plan  9  From Outer Space", considered by some to be the worst movie
-   ever   made.   The   source   is   available   for   download   under
-   almost-open-source  terms.  The  developers and a small fan base hang
-   out  at  comp.os.plan9,  where one can occasionally hear "If you want
-   UNIX, you know where to find it"
+   ever  made.  The  source  is available for download under open-source
+   terms. The developers and a small fan base hang out at comp.os.plan9,
+   where  one can occasionally hear "If you want UNIX, you know where to
+   find it"
 
 :plan file: n.
 
@@ -21843,9 +25854,11 @@ P
    propagating  in a vacuum. It is now defined as the length of the path
    traveled  by  light in a vacuum in the time interval of 1/299,792,458
    of  a second. The kilogram is now the only unit of measure officially
-   defined  in  terms  of  a  unique artifact.) "This garbage-collection
-   algorithm  has  been tested against the platinum-iridium cons cell in
-   Paris." Compare {golden}.
+   defined  in terms of a unique artifact. But this will have to change;
+   in 2003 it was revealed that the reference kilogram has been shedding
+   mass   over   time,   and   is   down   by   50   micrograms.)  "This
+   garbage-collection    algorithm   has   been   tested   against   the
+   platinum-iridium cons cell in Paris." Compare {golden}.
 
 :playpen: n.
 
@@ -22367,12 +26380,14 @@ P
    upgrade  charges  after  the initial sale has locked the customer in.
    Often used in the phrase "proprietary crap".
 
-   3.  Synonym for closed-source, e.g. software issued in binary without
-   source and under a restrictive license.
+   3.  Synonym  for  closed-source  or  non-free,  e.g.  software issued
+   without license rights permitting the public to independently review,
+   develop and redistribute it.
 
-   Since the coining of the term {open source}, many hackers have made a
-   conscious  effort  to  distinguish between proprietary and commercial
+   Proprietary   software   should   be  distinguished  from  commercial
    software.  It  is  possible  for  software to be commercial (that is,
+   intended   to   make  a  profit  for  the  producers)  without  being
+   proprietary.  It  is possible for software to be commercial (that is,
    intended   to   make  a  profit  for  the  producers)  without  being
    proprietary. The reverse is also possible, for example in binary-only
    freeware.
@@ -22582,6 +26597,21 @@ P
    http://www.python.org. See also {Guido}, {BDFL}.
 
 Q
+
+   quad
+   quadruple bucky
+   quantifiers
+   quantum bogodynamics
+   quarter
+   ques
+   quick-and-dirty
+   quine
+   Quirk objection
+   quote chapter and verse
+   quotient
+   quux
+   qux
+   QWERTY
 
 :quad: n.
 
@@ -22884,6 +26914,97 @@ q(#define q(k)main(){return!puts(#k"\nq("#k")");})
    http://www.reasonmag.com/9606/Fe.QWERTY.html.
 
 R
+
+   rabbit job
+   rain dance
+   rainbow series
+   random
+   Random Number God
+   random numbers
+   randomness
+   rape
+   rare mode
+   raster blaster
+   raster burn
+   rasterbation
+   rat belt
+   rat dance
+   rathole
+   ratio site
+   rave
+   rave on!
+   ravs
+   raw mode
+   RBL
+   rc file
+   RE
+   read-only user
+   README file
+   real
+   real estate
+   real hack
+   real operating system
+   Real Programmer
+   Real Soon Now
+   real time
+   real user
+   Real World
+   reality check
+   reality-distortion field
+   reaper
+   recompile the world
+   rectangle slinger
+   recursion
+   recursive acronym
+   red wire
+   regexp
+   register dancing
+   rehi
+   reincarnation, cycle of
+   reinvent the wheel
+   relay rape
+   religion of CHI
+   religious issues
+   replicator
+   reply
+   restriction
+   retcon
+   RETI
+   retrocomputing
+   return from the dead
+   RFC
+   RFE
+   Right Thing
+   rip
+   ripoff
+   RL
+   roach
+   robocanceller
+   robot
+   robust
+   rococo
+   rogue
+   room-temperature IQ
+   root
+   root mode
+   rootkit
+   rot13
+   rotary debugger
+   RSN
+   RTBM
+   RTFAQ
+   RTFB
+   RTFM
+   RTFS
+   RTI
+   RTM
+   RTS
+   rubber-hose cryptanalysis
+   rude
+   runes
+   runic
+   rusty iron
+   rusty wire
 
 :rabbit job: n.
 
@@ -23410,7 +27531,10 @@ R
    (Liar  Imitates  Apply Recursively), and {GNU} (q.v., sense 1) stands
    for  "GNU's  Not  Unix!" -- and a company with the name Cygnus, which
    expands  to "Cygnus, Your GNU Support" (though Cygnus people say this
-   is a {backronym}). See also {mung}, {EMACS}.
+   is  a {backronym}). The GNU recursive acronym may have been patterned
+   on XINU, "XINU Is Not Unix" -- a particularly nice example because it
+   is  a  mirror  image,  a backronym, and a recursive acronym. See also
+   {mung}, {EMACS}.
 
 :red wire: n.
 
@@ -23752,13 +27876,11 @@ R
 
 :rootkit: /root´kit/, n.
 
-   [very common] A kit for getting {root}; an automated {cracking} tool.
-   What  {script  kiddies}  use.  The  existence  of rootkits means that
-   large-scale  attacks on insecure computers can be done by people with
-   no  technical  skills  other  than  the ability to follow directions.
-   Rootkits designed to crack Microsoft operating systems and webservers
-   are  especially  common, because their software is so porous and easy
-   to crack.
+   [very  common]  A kit for maintaining {root}; an automated {cracking}
+   tool.  What {script kiddies} use. After a cracker has first broken in
+   and gained root access, he or she will install modified binaries such
+   as  a modified version login with a backdoor, or a version of ps that
+   will not report the cracker's processes). This is a rootkit.
 
 :rot13: /rot ther´teen/, n.,v.
 
@@ -23939,6 +28061,251 @@ R
    whizbang new protocol on really rusty wire?".
 
 S
+
+   S/N ratio
+   sacred
+   saga
+   sagan
+   SAIL
+   salescritter
+   salt
+   salt mines
+   salt substrate
+   same-day service
+   samizdat
+   samurai
+   sandbender
+   sandbox
+   sanity check
+   Saturday-night special
+   say
+   scag
+   scanno
+   scary devil monastery
+   schroedinbug
+   science-fiction fandom
+   SCNR
+   scram switch
+   scratch
+   scratch monkey
+   scream and die
+   screaming tty
+   screen
+   screen name
+   screen scraping
+   screw
+   screwage
+   scribble
+   script kiddies
+   scrog
+   scrool
+   scrozzle
+   scruffies
+   SCSI
+   SCSI voodoo
+   search-and-destroy mode
+   second-system effect
+   secondary damage
+   security through obscurity
+   SED
+   See figure 1
+   segfault
+   seggie
+   segment
+   segmentation fault
+   segv
+   self-reference
+   selvage
+   semi
+   semi-automated
+   semi-infinite
+   senior bit
+   September that never ended
+   server
+   SEX
+   sex changer
+   shambolic link
+   shar file
+   sharchive
+   Share and enjoy!
+   shareware
+   sharing violation
+   shebang
+   shelfware
+   shell
+   shell out
+   shift left (or right) logical
+   shim
+   shitogram
+   shotgun debugging
+   shovelware
+   showstopper
+   shriek
+   Shub-Internet
+   SIG
+   sig block
+   sig quote
+   sig virus
+   sigmonster
+   signal-to-noise ratio
+   silicon
+   silly walk
+   silo
+   since time T equals minus infinity
+   sitename
+   skrog
+   skulker
+   slab
+   slack
+   slash
+   slashdot effect
+   sleep
+   slim
+   slop
+   slopsucker
+   Slowlaris
+   slurp
+   slurp the robot
+   smart
+   smart terminal
+   smash case
+   smash the stack
+   smiley
+   smoke
+   smoke and mirrors
+   smoke test
+   smoking clover
+   smoot
+   SMOP
+   smurf
+   SNAFU principle
+   snail
+   snail-mail
+   snap
+   snarf
+   snarf & barf
+   snarf down
+   snark
+   sneaker
+   sneakernet
+   sniff
+   SO
+   social engineering
+   social science number
+   sock puppet
+   sodium substrate
+   soft boot
+   softcopy
+   software bloat
+   software hoarding
+   software laser
+   software rot
+   softwarily
+   softy
+   some random X
+   sorcerer's apprentice mode
+   source
+   source of all good bits
+   space-cadet keyboard
+   spaceship operator
+   SPACEWAR
+   spaghetti code
+   spaghetti inheritance
+   spam
+   spam bait
+   spamblock
+   spamhaus
+   spamvertize
+   spangle
+   spawn
+   special-case
+   speed of light
+   speedometer
+   spell
+   spelling flame
+   spider
+   spider food
+   spiffy
+   spike
+   spin
+   Spinning Pizza of Death
+   spl
+   splash screen
+   splat
+   splat out
+   splork!
+   spod
+   spoiler
+   spoiler space
+   sponge
+   spoof
+   spool
+   spool file
+   sporgery
+   sport death
+   spungle
+   spyware
+   squirrelcide
+   stack
+   stack puke
+   stale pointer bug
+   Stanford Bunny
+   star out
+   state
+   stealth manager
+   steam-powered
+   steved
+   STFW
+   stir-fried random
+   stomp on
+   Stone Age
+   stone knives and bearskins
+   stoppage
+   store
+   STR
+   strided
+   stroke
+   strudel
+   stubroutine
+   studly
+   studlycaps
+   stunning
+   stupid-sort
+   Stupids
+   Sturgeon's Law
+   sucking mud
+   sufficiently small
+   suit
+   suitable win
+   suitably small
+   Sun
+   sun lounge
+   sun-stools
+   sunspots
+   super source quench
+   superloser
+   superprogrammer
+   superuser
+   support
+   surf
+   Suzie COBOL
+   swab
+   swap
+   swap space
+   swapped in
+   swapped out
+   Swiss-Army chainsaw
+   swizzle
+   sync
+   syntactic salt
+   syntactic sugar
+   sys-frog
+   sysadmin
+   sysape
+   sysop
+   system
+   system mangler
+   systems jock
 
 :S/N ratio: //, n.
 
@@ -26309,7 +30676,7 @@ S
    [Usenet]   Common  abbreviation  for  "Search  The  Fucking  Web",  a
    suggestion that what you're asking for is a query better handled by a
    search  engine  than  a  human  being.  Usage  is  common and exactly
-   parallel to both senses of {RTFM}.
+   parallel to both senses of {RTFM}. A politer equivalent is {GIYF}.
 
 :stir-fried random: n.
 
@@ -26741,7 +31108,7 @@ S
 
    [esp.  in  the  BBS  world] The operator (and usually the owner) of a
    bulletin-board  system.  A common neophyte mistake on {FidoNet} is to
-   address  a  message  to sysop in an international FodoNet board, thus
+   address  a  message  to sysop in an international FidoNet board, thus
    sending it to hundreds of sysops around the world.
 
 :system: n.
@@ -26766,11 +31133,141 @@ S
    software  maintenance, and updates at some site. Unlike {admin}, this
    term emphasizes the technical end of the skills involved.
 
-T
-
 :systems jock: n.
 
    See {jock}, sense 2.
+
+T
+
+   T
+   tail recursion
+   talk mode
+   talker system
+   TAN
+   tanked
+   TANSTAAFL
+   tape monkey
+   tar and feather
+   tarball
+   tardegy
+   taste
+   tayste
+   TCB
+   TCP/IP
+   TECO
+   tee
+   teergrube
+   teledildonics
+   ten-finger interface
+   tense
+   tentacle
+   tenured graduate student
+   tera-
+   teraflop club
+   terminak
+   terminal brain death
+   terminal illness
+   terminal junkie
+   test
+   TeX
+   text
+   thanks in advance
+   That's not a bug, that's a feature!
+   the literature
+   the network
+   the X that can be Y is not the true X
+   theology
+   theory
+   thinko
+   This can't happen
+   This time, for sure!
+   thrash
+   thread
+   three-finger salute
+   throwaway account
+   thud
+   thumb
+   thundering herd problem
+   thunk
+   tick
+   tick-list features
+   tickle a bug
+   tiger team
+   time bomb
+   time sink
+   time T
+   times-or-divided-by
+   timesharing
+   TINC
+   Tinkerbell program
+   TINLC
+   tip of the ice-cube
+   tired iron
+   tits on a keyboard
+   TLA
+   TMRC
+   TMRCie
+   TMTOWTDI
+   to a first approximation
+   to a zeroth approximation
+   toad
+   toast
+   toaster
+   toeprint
+   TOFU
+   toggle
+   tool
+   toolchain
+   toolsmith
+   toor
+   top-post
+   topic drift
+   topic group
+   TOPS-10
+   TOPS-20
+   TOS
+   tourist
+   tourist information
+   touristic
+   toy
+   toy language
+   toy problem
+   toy program
+   trampoline
+   trap
+   trap door
+   trash
+   trawl
+   tree-killer
+   treeware
+   trit
+   trivial
+   troff
+   troglodyte
+   troglodyte mode
+   Trojan horse
+   troll
+   Troll-O-Meter
+   tron
+   troughie
+   true-hacker
+   tty
+   tube
+   tube time
+   tunafish
+   tune
+   turbo nerd
+   Turing tar-pit
+   turist
+   Tux
+   tweak
+   TWENEX
+   twiddle
+   twilight zone
+   twink
+   twirling baton
+   two pi
+   two-to-the-N
 
 :T: /T/
 
@@ -28496,6 +32993,42 @@ Q: Should I include quotations after my reply?
 
 U
 
+   u-
+   UBD
+   UBE
+   ubergeek
+   UCE
+   UDP
+   UN*X
+   undefined external reference
+   under the hood
+   undocumented feature
+   uninteresting
+   Unix
+   Unix brain damage
+   Unix conspiracy
+   Unix weenie
+   unixism
+   unswizzle
+   unwind the stack
+   unwind-protect
+   up
+   upload
+   upstream
+   upthread
+   uptime
+   urchin
+   URL
+   Usenet
+   Usenet Death Penalty
+   user
+   user-friendly
+   user-obsequious
+   userland
+   Utah teapot, the
+   UTSL
+   UUOC
+
 :u-: pref.
 
    Written  shorthand  for  {micro-};  techspeak  when applied to metric
@@ -28928,6 +33461,44 @@ U
    this and other similar awards.
 
 V
+
+   V7
+   vadding
+   vanilla
+   vanity domain
+   vannevar
+   vaporware
+   var
+   vaston
+   VAX
+   VAXen
+   vaxocentrism
+   vdiff
+   veeblefester
+   velveeta
+   Venus flytrap
+   verbage
+   verbiage
+   Version 7
+   vgrep
+   vi
+   video toaster
+   videotex
+   virgin
+   virtual
+   virtual beer
+   virtual Friday
+   virtual reality
+   virtual shredder
+   virus
+   visionary
+   VMS
+   voice
+   voice-net
+   voodoo programming
+   VR
+   Vulcan nerve pinch
+   vulture capitalist
 
 :V7: /V´sev´en/, n.
 
@@ -29423,6 +33994,116 @@ V
 
 W
 
+   w00t
+   wabbit
+   WAITS
+   waldo
+   walk
+   walk off the end of
+   walking drives
+   wall
+   wall follower
+   wall time
+   wall wart
+   wallhack
+   wango
+   wank
+   wannabee
+   war dialer
+   war-driving
+   war-chalking
+   -ware
+   warez
+   warez d00dz
+   warez kiddies
+   warlording
+   warm boot
+   wart
+   washing machine
+   washing software
+   water MIPS
+   wave a dead chicken
+   weasel
+   web pointer
+   web ring
+   web toaster
+   webify
+   webmaster
+   wedged
+   wedgie
+   wedgitude
+   weeble
+   weeds
+   weenie
+   Weenix
+   well-behaved
+   well-connected
+   wetware
+   whack
+   whack-a-mole
+   whacker
+   whales
+   What's a spline?
+   wheel
+   wheel bit
+   wheel of reincarnation
+   wheel wars
+   white hat
+   whitelist
+   whizzy
+   Whorfian mind-lock
+   wibble
+   WIBNI
+   widget
+   wiggles
+   wild side
+   WIMP environment
+   win
+   win big
+   win win
+   Winchester
+   windoid
+   window shopping
+   Windowsitis
+   Windoze
+   winged comments
+   winkey
+   winnage
+   winner
+   winnitude
+   Wintel
+   Wintendo
+   wired
+   wirehead
+   wirewater
+   wish list
+   within delta of
+   within epsilon of
+   wizard
+   Wizard Book
+   wizard hat
+   wizard mode
+   wizardly
+   wok-on-the-wall
+   womb box
+   WOMBAT
+   womble
+   wonky
+   workaround
+   working as designed
+   worm
+   wormhole
+   wound around the axle
+   wrap around
+   write-only code
+   write-only language
+   write-only memory
+   Wrong Thing
+   wugga wugga
+   wumpus
+   WYSIAYG
+   WYSIWYG
+
 :w00t:
 
    An  interjection  similar  to  "Yay!",  as  in: "w00t!!! I just got a
@@ -29654,13 +34335,14 @@ W
 
 :war dialer: n.
 
-   A  cracking tool, a program that calls a given list or range of phone
-   numbers  and  records those which answer with handshake tones (and so
-   might  be  entry  points  to computer or telecommunications systems).
-   Some  of  these programs have become quite sophisticated, and can now
-   detect  modem, fax, or PBX tones and log each one separately. The war
-   dialer  is  one  of the most important tools in the {phreaker}'s kit.
-   These programs evolved from early {demon dialer}s.
+   [originally  from  `wargames  dialer',  a  reference to the movie War
+   Games] A cracking tool, a program that calls a given list or range of
+   phone  numbers  and  records  those which answer with handshake tones
+   (and  so  might  be  entry  points  to computer or telecommunications
+   systems). Some of these programs have become quite sophisticated, and
+   can  now detect modem, fax, or PBX tones and log each one separately.
+   The war dialer is one of the most important tools in the {phreaker}'s
+   kit. These programs evolved from early {demon dialer}s.
 
 :war-driving:
 
@@ -30626,6 +35308,15 @@ W
 
 X
 
+   X
+   XEROX PARC
+   XOFF
+   XON
+   xor
+   xref
+   XXX
+   xyzzy
+
 :X: /X/, n.
 
    1. Used in various speech and writing contexts (also in lowercase) in
@@ -30722,6 +35413,24 @@ X
    The text can be viewed at Project Gutenberg.
 
 Y
+
+   YA-
+   YABA
+   YAFIYGI
+   yak shaving
+   YAUN
+   yellow card
+   yellow wire
+   Yet Another
+   YHBT
+   YKYBHTLW
+   YMMV
+   You are not expected to understand this
+   You know you've been hacking too long when
+   Your mileage may vary
+   Yow!
+   yoyo mode
+   Yu-Shiang Whole Fish
 
 :YA-: abbrev.
 
@@ -30888,7 +35597,32 @@ Y
    display  this  character  on  the screen. Tends to elicit incredulity
    from people who hear about it second-hand.
 
+   Yu  Shiang  Whole  Fish  is alive and well in Unicode as U+0263 LATIN
+   SMALL  LETTER GAMMA (as opposed to the actual Greek letter at U+03B3,
+   which   usually   has  a  loopless  glyph;  the  form  of  U+0263  is
+   consistently  loopy).  This  symbol is included in Unicode as a Latin
+   letter  because it is used in the International Phonetic Alphabet. In
+   the  IPA,  gamma  represents  a  voiced  velar  fricative,  the sound
+   commonly transcribed "gh" in Arabic or Klingon.
+
 Z
+
+   zap
+   zapped
+   Zawinski's Law
+   zbeba
+   zen
+   zero
+   zero-content
+   Zero-One-Infinity Rule
+   zeroth
+   zigamorph
+   zip
+   zipperhead
+   zombie
+   zorch
+   Zork
+   zorkmid
 
 :zap:
 
@@ -32386,7 +37120,7 @@ Appendix C. Helping Hacker Culture Grow
      * If you are a writer or journalist, don't say or write hacker when
        you  mean  cracker.  If  you  work  with  writers or journalists,
        educate  them  on this issue and push them to do the right thing.
-       If  you  catch a newspaper or magazine abusing the work `hacker',
+       If  you  catch a newspaper or magazine abusing the word `hacker',
        write  them  and  straighten  them  out (this appendix includes a
        model letter).
      * If you're a techie or computer hobbyist, get involved with one of
