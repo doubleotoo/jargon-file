@@ -1,4 +1,4 @@
-#======= THIS IS THE JARGON FILE, VERSION 4.1.4, 17 JUN 1999 =======#
+#======= THIS IS THE JARGON FILE, VERSION 4.1.5, 24 SEP 1999 =======#
 
    This is the Jargon File, a comprehensive compendium of hacker slang
 illuminating many aspects of hackish tradition, folklore, and humor.
@@ -9,8 +9,8 @@ restraints on what you can do with it, but there are traditions about
 its proper use to which many hackers are quite strongly attached.
 Please extend the courtesy of proper citation when you quote the File,
 ideally with a version number, as it will change and grow over time.
-(Examples of appropriate citation form: "Jargon File 4.1.4" or "The
-on-line hacker Jargon File, version 4.1.4, 17 JUN 1999".)
+(Examples of appropriate citation form: "Jargon File 4.1.5" or "The
+on-line hacker Jargon File, version 4.1.5, 24 SEP 1999".)
 
    The Jargon File is a common heritage of the hacker culture.  Over
 the years a number of individuals have volunteered considerable time to
@@ -464,6 +464,10 @@ entries.
 
    Version 4.1.4, 17 Jun 1999: Markup fixes for framed HTML.  This
 version had 26117 lines, 210527 words, 1384902 characters, and 2234
+entries.
+
+   Version 4.1.5, 17 Jun 1999: Markup fixes for framed HTML.  This
+version had 26149 lines, 210781 words, 1386560 characters, and 2238
 entries.
 
    Version numbering: Version numbers should be read as
@@ -4862,8 +4866,8 @@ and are still widely popular.  Note that    BSD versions going back to
 2.9 are often referred to by their    version numbers, without the BSD
 prefix.  See {4.2}, {{Unix}},    {USG Unix}.
 
-   :BSOD: //   Very commmon abbreviation for {Blue    Screen of Death}.
-Both spoken and written.
+   :BSOD: /B-S-O-D/   Very commmon abbreviation for {Blue    Screen of
+Death}.  Both spoken and written.
 
    :BUAF: // n.  [abbreviation, from alt.fan.warlord] Big    Ugly ASCII
 Font -- a special form of {ASCII art}.  Various    programs exist for
@@ -10905,9 +10909,10 @@ it implicitly denies any right of    designers to own, assign, and sell
 the results of their labors),    many hackers who disagree with RMS
 have nevertheless cooperated to    produce large amounts of
 high-quality software for free    redistribution under the Free
-Software Foundation's imprimatur.     See {EMACS}, {copyleft}, {General
-Public Virus},    {Linux}.  2. Noted Unix hacker John Gilmore
-<<gnu@toad.com>>,    founder of Usenet's anarchic alt.* hierarchy.
+Software Foundation's imprimatur.     The GNU project has a web page at
+`http://www.gnu.org'.     See {EMACS}, {copyleft}, {General Public
+Virus},    {Linux}.  2. Noted Unix hacker John Gilmore <<gnu@toad.com>>,
+  founder of Usenet's anarchic alt.* hierarchy.
 
    :GNUMACS: /gnoo'maks/ n.  [contraction of `GNU EMACS']
 Often-heard abbreviated name for the {GNU} project's flagship    tool,
@@ -11844,7 +11849,7 @@ communication.  Has become rarer since.  See also    {talk mode}.
    :Halloween Documents: n.  A pair of Microsoft internal    strategy
 memoranda leaked to ESR in late 1998 that confirmed    everybody's
 paranoia about the current {Evil Empire}.     These documents
-(http://www.opensource.org/halloween.html)    praised the technical
+(http://www.opensource.org/halloween/)    praised the technical
 excellence of {Linux} and outlined a    counterstrategy of attempting
 to lock in customers by    "de-commoditizing" Internet protocols and
 services.  They were    extensively cited on the Internet and in the
@@ -16143,6 +16148,13 @@ the same vein include the law attributed to the    early British
 computer scientist Douglas Hartree: "The time from    now until the
 completion of the project tends to become constant."
 
+   :nipple mouse: n.  Common term for the pointing device used    on
+IBM ThinkPads and a few other laptop computers.  The device,    which
+sits between the `g' and `h' keys on the keyboard, indeed    resembles
+a rubber nipple intended to be tweaked by a forefinger.     Many
+hackers consider these superior to the glide pads found on    most
+laptops, which are harder to control precisely.
+
    :NMI: /N-M-I/ n.  Non-Maskable Interrupt.  An IRQ 7 on the    PDP-11
 or 680[01234]0; the NMI line on an 80[1234]86.  In contrast    with a
 {priority interrupt} (which might be ignored, although    that is
@@ -17674,6 +17686,11 @@ mouse-based interface such as is found on the Macintosh.  The
 implication, of course, is that such an interface is only suitable
 for idiots.  See {for the rest of us}, {WIMP environment},
 {Macintrash}, {drool-proof paper}.  Also `point-and-grunt    interface'.
+
+   :pointy hat: n.  See {wizard hat}.  This synonym    specifically
+refers to the wizards of Unseen University in Terry    Pratchett's
+"Discworld" serious of humorous fantasies; these    books are extremely
+popular among hackers.
 
    :pointy-haired: adj.  [after the character in the    {Dilbert} comic
 strip] Describes the extreme form of the    property that separates
@@ -21625,6 +21642,13 @@ way to ship around source-code distributions since the    mid-1980s; in
 retrospect it seems odd that this term did not enter    common usage
 until the late 1990s.
 
+   :tardegy:  tar'djee n. [deliberate mangling of `tragedy']    An
+incident in which someone who clearly deserves to be selected out    of
+the gene pool on grounds of extreme stupidity meets with a messy
+end. Coined on the Darwin list, which is dedicated to chronicling
+such incidents; but almost all hackers would instantly recognize the
+intention of the term and laugh.
+
    :taste: [primarily MIT] n.  1. The quality in a program that
 tends to be inversely proportional to the number of features,    hacks,
 and kluges programmed into it.  Also `tasty',    `tasteful',
@@ -24147,6 +24171,14 @@ used in introductory courses at MIT.  So called because of    the
 wizard on the jacket.  One of the {bible}s of the    LISP/Scheme world.
 Also, less commonly, known as the {Purple    Book}.
 
+   :wizard hat: n.  [also, after Terry Pratchett, `pointy    hat']
+Notional headgear worn by whoever is the {wizard} in a    particular
+context.  The implication is that it's a transferable    role.  "Talk
+to Alice, she's wearing the TCP/IP wizard hat while    Bob is on
+vacation."  This metaphor is sufficiently live that one    may actually
+see hackers miming the act of putting on, taking off,    or
+transferring a phantom hat.  Compare {patch pumpkin}.
+
    :wizard mode: n.  [from {rogue}] A special access mode of a
 program or system, usually passworded, that permits some users
 godlike privileges.  Generally not used for operating systems
@@ -24813,7 +24845,7 @@ extensively; the interested reader is referred to his delightful
 pictorial compendium "The Journal of the Institute for Hacks,
 Tomfoolery, and Pranks" (MIT Museum, 1990; ISBN 0-917027-03-5).  The
 Institute has a World Wide Web page at
-`http://fishwrap.mit.edu/Hacks/Gallery.html'. There is rumored to be a
+`http://hacks.mit.edu/Hacks/Gallery.html'. There is rumored to be a
 sequel entitled "Is This The Way To Baker Street?".  The Caltech Alumni
 Association has published two similar books titled "Legends of Caltech"
 and "More Legends of Caltech".
