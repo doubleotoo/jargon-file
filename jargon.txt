@@ -1,8 +1,8 @@
-#======= THIS IS THE JARGON FILE, VERSION 4.4.3, 22 JUL 2003 =======#
+#======= THIS IS THE JARGON FILE, VERSION 4.4.4, 14 AUG 2003 =======#
 
 The Jargon File
 
-(version 4.4.3)
+(version 4.4.4)
      ________________________________________________________________
 
    Table of Contents
@@ -88,8 +88,8 @@ Welcome to the Jargon File
    its  proper  use  to  which many hackers are quite strongly attached.
    Please  extend  the  courtesy  of  proper citation when you quote the
    File,  ideally with a version number, as it will change and grow over
-   time.  (Examples of appropriate citation form: "Jargon File 4.4.3" or
-   "The on-line hacker Jargon File, version 4.4.3, 15 Jul 2003".)
+   time.  (Examples of appropriate citation form: "Jargon File 4.4.4" or
+   "The on-line hacker Jargon File, version 4.4.4, 14 Aug 2003".)
 
    The  Jargon File is a common heritage of the hacker culture. Over the
    years  a  number of individuals have volunteered considerable time to
@@ -627,6 +627,9 @@ Chapter 3. Revision History
    4.4.3 15 Jul 2003 37363 235135 1629667 2293
 
    Fix some stylesheet problems leading to missing links.
+   4.4.4 14 Aug 2003 37392 235271 1630579 2295
+
+   Corrected build machinery; we can make RPMS now.
 
    Version    numbering:    Version    numbers   should   be   read   as
    major.minor.revision. Major version 1 is reserved for the `old' (ITS)
@@ -3020,6 +3023,7 @@ Glossary
         job security
         jock
         joe code
+        joe-job
         juggling eggs
         juice
         jump off into never-never land
@@ -3781,6 +3785,7 @@ Glossary
         sneaker
         sneakernet
         sniff
+        snippage
         SO
         social engineering
         social science number
@@ -7209,6 +7214,16 @@ bits     0001  0011  0101  0111  1001  1011  1101  1111
    of  ISDN  terminals  can  provoke  a similar feeling of hypnotic awe,
    especially in a darkened network operations center or server room.
 
+   The  ancestor  of the original blinkenlights posters of the 1950s was
+   probably this:
+
+   [gefingerpoken.jpg]
+
+   We  are  informed  that  cod-German  parodies  of this kind were very
+   common  in  Allied  machine shops during and following WWII. Germans,
+   then  as  now,  had  a  reputation for being both good with precision
+   machinery and prone to officious notices.
+
 :blit: /blit/, vt.
 
    1.  [common]  To  copy  a  large  array  of  bits  from one part of a
@@ -7782,7 +7797,7 @@ bits     0001  0011  0101  0111  1001  1011  1101  1111
 :boink: /boynk/
 
    1. [Usenet: variously ascribed to the TV series Cheers, Moonlighting,
-   and  Soap]v.  To  have  sex with; compare {bounce}, sense 3. (This is
+   and  Soap]v.  To  have  sex with; compare {bounce}, sense 2. (This is
    mainstream slang.) In Commonwealth hackish the variant `bonk' is more
    common.
 
@@ -7909,7 +7924,7 @@ bits     0001  0011  0101  0111  1001  1011  1101  1111
 
 :borken: adj.
 
-   (also borked) Common deliberate typo for «broken'.
+   (also borked) Common deliberate typo for `broken'.
 
 :bot: n
 
@@ -9104,9 +9119,9 @@ C
    the  C  tradition  of  either  running  syllables together or marking
    syllable  breaks  with  underscores; thus, where a C programmer would
    write thisverylongname or this_very_long_name, the camelCased version
-   would be thisVeryLongName. The common in certain language communities
-   (formerly  Pascal;  today  Java  and  Visual  Basic)  and tends to be
-   associated with object-oriented programming.
+   would  be  thisVeryLongName.  This  practice  is  common  in  certain
+   language  communities  (formerly Pascal; today Java and Visual Basic)
+   and tends to be associated with object-oriented programming.
 
    Compare  {BiCapitalization};  but  where  that  practice is primarily
    associated  with  marketing,  camelCasing  is not aimed at impressing
@@ -16661,9 +16676,8 @@ G
 :GIPS: /gips/, /jips/, n.
 
    [analogy  with  {MIPS}]  Giga-Instructions  per Second (also possibly
-   `Gillions  of Instructions per Second'; see {gillion}). In 1991, this
-   is  used  of  only a handful of highly parallel machines, but this is
-   expected to change. Compare {KIPS}.
+   `Gillions  of  Instructions  per  Second';  see  {gillion}).  Compare
+   {KIPS}.
 
 :GIYF: n.
 
@@ -19304,7 +19318,7 @@ I
    true  --  otherwise  Usenet would have reproduced the entire canon of
    great literature by now.
 
-   In  mid-2003,  researchers  at Plymouth Univesity in England actually
+   In  mid-2002,  researchers  at Plymouth Univesity in England actually
    put  a  working  computer  in  a  cage with six crested macaques. The
    monkeys proceeded to bash the machine with a rock, urinate on it, and
    type the letter S a lot (later, the letters A, J, L, and M also crept
@@ -19683,6 +19697,7 @@ J
    job security
    jock
    joe code
+   joe-job
    juggling eggs
    juice
    jump off into never-never land
@@ -19897,6 +19912,12 @@ J
    wonder!  It's  Ed  code!".  Used most often with a programmer who has
    left the shop and thus is a convenient scapegoat for anything that is
    wrong with the project.
+
+:joe-job: n., vt.
+
+   A spam run forged to appear as though it came from an innocent party,
+   who  is  then  generally  flooded  by  the  bounces;  or,  the act of
+   performing such a run. The original incident is described here.
 
 :juggling eggs: vi.
 
@@ -21830,9 +21851,14 @@ M
 
 :mainsleaze: n.
 
-   [spam  fighters] A big-time spammer, with their own {fat pipe}, their
-   own mailservers, and a {pink contract}. Almost impossible to get shut
+   1.  Spam  emitted  by  a reputable, mainstream company (as opposed to
+   fly-by-night  Viagra oeddlers and the like). Sometime this happens in
+   honest  ignorance,  but  the reputation danage can take years to live
    down.
+
+   2. Occasionally used for a big-time spammer, with its own {fat pipe},
+   their  own  mailservers,  and a {pink contract}. Almost impossible to
+   get shut down.
 
 :man page: n.
 
@@ -23804,7 +23830,7 @@ N
 
    [C  programmers]  The  second  edition  of  K&R's  The  C Programming
    Language  (Prentice-Hall,  1988; ISBN 0-13-110362-8), describing ANSI
-   Standard C. See {K&R}; this version is also called «K&R2'.
+   Standard C. See {K&R}; this version is also called `K&R2'.
 
 :newbie: /n[y]oo´bee/, n.
 
@@ -24352,10 +24378,10 @@ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 :obi-wan error: /oh´bee·won` er'@r/, n.
 
    [RPI,  from off-by-one and the Obi-Wan Kenobi character in Star Wars]
-   A loop of some sort in which the index is off by
+   A loop of some sort in which the index is off by one.
 
    1.  Common  when  the  index  should  have started from 0 but instead
-   started from
+   started from 1.
 
    2. A kind of {off-by-one error}. See also {zeroth}.
 
@@ -25884,18 +25910,18 @@ P
    A  slightly  more  directed  form of plokta can often be seen in mail
    messages or Usenet articles from new users -- the text might end with
 
-           ^X^C
-           q
-           quit
-           :q
-           ^C
-           end
-           x
-           exit
-           ZZ
-           ^D
-           ?
-           help
+        ^X^C
+        q
+        quit
+        :q
+        ^C
+        end
+        x
+        exit
+        ZZ
+        ^D
+        ?
+        help
 
    as  the  user  vainly tries to find the right exit sequence, with the
    incorrect tries piling up at the end of the message....
@@ -26386,8 +26412,6 @@ P
 
    Proprietary   software   should   be  distinguished  from  commercial
    software.  It  is  possible  for  software to be commercial (that is,
-   intended   to   make  a  profit  for  the  producers)  without  being
-   proprietary.  It  is possible for software to be commercial (that is,
    intended   to   make  a  profit  for  the  producers)  without  being
    proprietary. The reverse is also possible, for example in binary-only
    freeware.
@@ -28189,6 +28213,7 @@ S
    sneaker
    sneakernet
    sniff
+   snippage
    SO
    social engineering
    social science number
@@ -29194,10 +29219,10 @@ S
 
 :shebang: /sh@·bang/, n.
 
-   The  character  sequence "#!" that frequently begins executable shell
-   scripts  under  Unix.  Probably  derived  from "shell bang" under the
-   influence  of  American  slang  "the  whole shebang" (everything, the
-   works).
+   [possibly  a portmanteau of "sharp bang"] The character sequence "#!"
+   that  frequently begins executable shell scripts under Unix. Probably
+   derived  from "shell bang" under the influence of American slang "the
+   whole shebang" (everything, the works).
 
 :shelfware: /shelf´weir/, n.
 
@@ -29896,9 +29921,13 @@ S
 
 :sniff: v.,n.
 
-   1.  To watch IP packets traversing a local network. Most often in the
-   phrase  packet  sniffer,  a  program  for  doing same. 2. Synonym for
-   {poll}.
+   1.  To  watch  packets traversing a network. Most often in the phrase
+   packet sniffer, a program for doing same. 2. Synonym for {poll}.
+
+:snippage: n.
+
+   Synonym  for {deletia}; the fact that something has been snipped when
+   quoting is often indicated with the pseudo-HTML <snip>.
 
 :SO: /S·O/, n.
 
@@ -30212,7 +30241,7 @@ S
    render  it  invalid  and  thus  useless to spammers. For example, the
    address     <jrandom@hacker.org>     might    be    transformed    to
    <jrandom@NOSPAM.hacker.org>.  Adding spamblock to an address is often
-   referred to as munging it (see {munge})-. This evasion tactic depends
+   referred  to as munging it (see {munge}). This evasion tactic depends
    on  the  fact  that  most  spammers  collect  names with some sort of
    {address  harvester}  on  volumes  too  high  to de-mung by hand, but
    individual  humans  reading  an  email  message  can readily spot and
@@ -30501,7 +30530,7 @@ S
    in  order  to  masquerade  as a trusted machine. This term has become
    very  widespread  and  is borderline techspeak. Interestingly, it was
    already  in  use  in  its  modern sense more than a century ago among
-   Victorian teklegraphers; it shows up in Kipling.
+   Victorian telegraphers; it shows up in Kipling.
 
 :spool: vi.
 
