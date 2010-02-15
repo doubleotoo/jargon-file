@@ -1,4 +1,4 @@
-============ THIS IS THE JARGON FILE, VERSION 2.8.1, 22 MAR 1991 ============
+============ THIS IS THE JARGON FILE, VERSION 2.8.2, 23 MAR 1991 ============
 
 Copyright 1991 by Eric S. Raymond, all rights reserved.  Permission to
 make copies and derived works for non-profit use is granted as long as
@@ -191,9 +191,6 @@ instance, go back to the Tech Model Railroad Club and MIT and are
 believed to date at least back to the early 1960s).  The revisions of
 jargon-1 were all unnumbered and may be collectively considered
 `Version 1'.
-
-In 1976, Mark Crispin brought the File to MIT; he and Guy Steele then
-added a first wave of new entries.
 
 In 1976, Mark Crispin, having seen an announcement about the File on
 the SAIL computer, {FTP}ed a copy of the File to MIT.  He noticed that
@@ -2351,15 +2348,6 @@ bit bashing: n. (also, `bit diddling' or {bit twiddling}) Term
    driver looks pretty solid but the bit-bashing for the control
    registers still has bugs."  See also {bit bang}, {mode bit}.
 
-bit twiddling: n. 1. (pejorative) An exercise in {tuning} in
-   which incredible amounts of time and effort go to produce little
-   noticeable improvement, with the frequent result that the code has
-   become incomprehensible.  2. aimless small modification to a
-   program, esp. for some pointless goal.  3. Approx. syn. for {bit
-   bashing}; esp. used for the act of frobbing the device control
-   register of a peripheral in an attempt to get it back to a known
-   state.
-
 bit bucket: n. 1. The universal data sink (originally, the mythical
    receptacle used to catch bits when they fall off the end of a
    register during a shift instruction).  Data that is discarded,
@@ -2417,6 +2405,15 @@ bit rot: n. Also {bit decay}.  Hypothetical disease the existence
 
    The term {software rot} is almost synonymous.  Software rot is
    the effect, bit rot the notional cause.
+
+bit twiddling: n. 1. (pejorative) An exercise in {tuning} in
+   which incredible amounts of time and effort go to produce little
+   noticeable improvement, with the frequent result that the code has
+   become incomprehensible.  2. aimless small modification to a
+   program, esp. for some pointless goal.  3. Approx. syn. for {bit
+   bashing}; esp. used for the act of frobbing the device control
+   register of a peripheral in an attempt to get it back to a known
+   state.
 
 bit-paired keyboard: n. obs.  A non-standard keyboard layout which
    seems to have originated with the Teletype ASR-33 and remained
@@ -5518,6 +5515,12 @@ El Camino Bignum: /el' k*-mee'noh big'num/ n. El Camino Real.  El
    long, he renamed it `El Camino Bignum', and that name has stuck.
    (See {bignum}.)
 
+elder days: n. The heroic age of hackerdom (roughly, pre-1980); the
+   era of the {PDP-10}, {TECO}, {ITS}, and the ARPANET.  This
+   term has been rather consciously adopted from J. R. R. Tolkien's
+   fantasy epic `The Lord of the Rings'.  Compare {Iron Age};
+   see also {elvish}.
+
 elegant: [from mathematical usage] adj. Combining simplicity, power,
    and a certain ineffable grace of design.  Higher praise than
    `clever', `winning', or even {cuspy}.
@@ -5543,6 +5546,18 @@ elevator controller: n. Another archetypal dumb embedded-systems
    default runtime library --- what if you're targeting an elevator
    controller?"  Elevator controllers became important rhetorical
    weapons on both sides of several {holy wars}.
+
+elvish: n. 1. The Tengwar of Feanor, a table of letterforms
+   resembling the beautiful Celtic half-uncial hand of the {Book of
+   Kells}.  These were invented and described by J. R. R. Tolkien in
+   `The Lord of The Rings' as an orthography for his fictional
+   `elvish' languages.  This system, which is both visually and
+   phonetically elegant, has long fascinated hackers (who tend to be
+   interested by artificial languages in general).  It is traditional
+   for graphics printers, plotters, window systems, and the like to
+   support a Feanorian font as one of their demo items.  2. By
+   extension, any odd or unreadable font produced by a graphics
+   device.
 
 EMACS: /ee'maks/ [from Editing MACroS] n. The ne plus ultra of
    hacker editors, a program editor with an entire LISP system inside
@@ -6898,7 +6913,7 @@ gedanken: /g*-dahn'kn/ adj. Ungrounded; impractical; not
    does not constitute a clear specification of an algorithm.  See
    also {DWIM}.
 
-h{geef} v. [ostensibly from `gefingerpoken'] vt. Syn. {mung}.  See
+geef: v. [ostensibly from `gefingerpoken'] vt. Syn. {mung}.  See
    also {blinkenlights}.
 
 geek out: vi. To temporarily enter techno-nerd mode while in a
@@ -9072,7 +9087,17 @@ live data: n. 1. Data which is written to be interpreted and takes
    commands back to the machine when they are simply viewed.  2. In C
    code, data which includes pointers to function {hook}s.  3. An
    object such as a {trampoline} which is constructed on the fly by
-   a program and intended to be executed as code.
+   a program and intended to be executed as code. 4. `actual
+   real-world data', as opposed to `test data'.  For example, "I
+   think I have the record deletion module finished."  "Have you
+   tried it out on live data?"  It usually carries the connotation
+   that live data is more fragile and must not be corrupted, else bad
+   things will happen.  So a possible alternate response to the above
+   claim might be "Well, make sure it works perfectly before we
+   throw live data at it."  The implication here is that record
+   deletion is something pretty significant, and a haywire record
+   deletion module running amock on live data would cause great harm
+   and probably require restoring from backups.
 
 Live Free Or Die!: imp. 1. The state motto of New Hampshire, which
    used to be on its car license plates.  2. A slogan associated with
@@ -10087,7 +10112,7 @@ mumble: interj. 1. Said when the correct response is either too
    question ("Mumble?") means "I didn't understand you."
    5. Sometimes used in `public' contexts on-line as a placefiller for
    things one is barred from giving details about.  For example, a
-   poater with pre-released hardware in his machine might say "Yup,
+   poster with pre-released hardware in his machine might say "Yup,
    my machine now has an extra 16M of mem, thanks to the card I'm
    testing for Mumbleco."
 
@@ -10466,9 +10491,10 @@ newsfroup: // [USENET] n. Silly synonym for
 
 newsgroup: [USENET] n. One of {USENET}'s huge collection of topic
    groups.  Among the best-known are `comp.lang.c' (the C-language
-   forum), `comp.unix.wizards', `rec.arts.sf-lovers' (for
-   science-fiction fans), and `talk.politics.misc' (miscellaneous
-   political discussions and {flamage}).
+   forum), `comp.arch' (on computer architectures),
+   `comp.unix.wizards' (for UNIX wizards), `rec.arts.sf-lovers'
+   (for science-fiction fans), and `talk.politics.misc'
+   (miscellaneous political discussions and {flamage}).
 
 nickle: [From `nickel', common name for the US 5-cent coin] n. A
    {nybble} + 1; 5 bits.  Reported among developers for Mattel's GI
@@ -11932,8 +11958,14 @@ QWERTY: /kwer'tee/ [from the keycaps at the upper left] adj.
    opposed to Dvorak or foreign-language layouts or a {space-cadet
    keyboard} or APL keyboard.
 
-   Historical note: the QWERTY layout was designed to be deliberately
-   slow, because fast typing jammed up early mechanical typewriters.
+   Historical note: the QWERTY layout (one of the worst disasters in
+   the history of human-factors design) was actually designed to be
+   deliberately slow!  Sholes tried to put common digraphs far apart,
+   because fast typing of near-adjacent keys jammed up early
+   mechanical typewriters.  He did a poor job; `th', `er' and other
+   common digraphs were close enough together to induce frequent jams.
+   The QWERTY layout is therefore more than just {cretinous}, it is
+   {bogus} in its very cretinosity!
 
 = R =
 =====
@@ -14920,8 +14952,7 @@ vaxocentrism: /vak`soh-sen'trizm/ [analogy with
 
   2.    The assumption that pointer and integer types are the same size,
         and that pointers can be stuffed into integer variables (and
-        vice-versa) and drawn back out without being truncated or
-     mangled.
+        vice-versa) and drawn back out without being truncated or mangled.
         Problem: fails on segmented architectures or word-oriented machines
         with funny pointer formats.
 
