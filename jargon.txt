@@ -1,4 +1,4 @@
-#======= THIS IS THE JARGON FILE, VERSION 4.1.3, 14 JUN 1999 =======#
+#======= THIS IS THE JARGON FILE, VERSION 4.1.4, 17 JUN 1999 =======#
 
    This is the Jargon File, a comprehensive compendium of hacker slang
 illuminating many aspects of hackish tradition, folklore, and humor.
@@ -9,8 +9,8 @@ restraints on what you can do with it, but there are traditions about
 its proper use to which many hackers are quite strongly attached.
 Please extend the courtesy of proper citation when you quote the File,
 ideally with a version number, as it will change and grow over time.
-(Examples of appropriate citation form: "Jargon File 4.1.3" or "The
-on-line hacker Jargon File, version 4.1.3, 14 JUN 1999".)
+(Examples of appropriate citation form: "Jargon File 4.1.4" or "The
+on-line hacker Jargon File, version 4.1.4, 17 JUN 1999".)
 
    The Jargon File is a common heritage of the hacker culture.  Over
 the years a number of individuals have volunteered considerable time to
@@ -389,6 +389,10 @@ microcomputer-based jargon were added at that time.
 book.  This version had 18952 lines, 148629 words, 975551 characters,
 and 1702 entries.
 
+   Version 2.9.7, Oct 28 1991: first markup for hypertext browser.
+This version had 19432 lines, 152132 words, 999595 characters, and 1750
+entries.
+
    Version 2.9.8, Jan 01 1992: first public release since the book,
 including over fifty new entries and numerous corrections/additions to
 old ones.  Packaged with version 1.1 of vh(1) hypertext reader.  This
@@ -455,7 +459,11 @@ path.  This version had 26006 lines, 209479 words, 1377687 characters,
 and 2225 entries.
 
    Version 4.1.3, 14 Jun 1999: Minor updates and markup fixes.  This
-version had 26106 lines, 210480 words, 1384544 characters, and 2234
+version had 26108 lines, 210480 words, 1384546 characters, and 2234
+entries.
+
+   Version 4.1.4, 17 Jun 1999: Markup fixes for framed HTML.  This
+version had 26117 lines, 210527 words, 1384902 characters, and 2234
 entries.
 
    Version numbering: Version numbers should be read as
@@ -2150,7 +2158,7 @@ shell `&' operator.
    :amper: n.  Common abbreviation for the name of the ampersand
 (`&', ASCII 0100110) character.  See {{ASCII}} for other synonyms.
 
-   :angband: n. ang'band Like {nethack}, {moria}, and    {rogue}, one
+   :angband: n. /ang'band/ Like {nethack}, {moria}, and    {rogue}, one
 of the large freely distributed    Dungeons-and-Dragons-like simulation
 games, available for a wide    range of machines and operating systems.
 The name is from Tolkien's    Pits of Angband (compare {elder days},
@@ -2225,9 +2233,11 @@ tea}.
    :AOL!: n.  [Usenet] Common synonym for "Me, too!"     alluding to
 the legendary propensity of America Online users to    utter
 contentless "Me, too!" postings.  The number of exclamation    points
-following varies from zero to five or so.  The pseudo-HTML    "<AOL>Me,
-too!</AOL>" is also frequently seen. See also    {September that never
-ended}.
+following varies from zero to five or so.  The pseudo-HTML
+
+        <AOL>Me, too!</AOL>
+
+is also frequently seen. See also {September that never ended}.
 
    :app: /ap/ n.  Short for `application program', as opposed    to a
 systems program.  Apps are what systems vendors are forever    chasing
@@ -9060,7 +9070,7 @@ spent some face time with him at the last Usenix."
 
    :factor: n.  See {coefficient of X}.
 
-   :fairings: n. fer'ingz [FreeBSD; orig. a typo for `fairness']    A
+   :fairings: n. /fer'ingz/ [FreeBSD; orig. a typo for `fairness']    A
 term thrown out in discussion whenever a completely and
 transparently nonsensical argument in one's favor(?) zseems called
 for, e,g. at the end of a really long thread for which the outcome
@@ -9275,9 +9285,9 @@ as in "Emacs has a bad case of feature    creep".
    :feature key: n.  [common] The Macintosh key with the    cloverleaf
 graphic on its keytop; sometimes referred to as    `flower', `pretzel',
 `clover', `propeller', `beanie' (an    apparent reference to the major
-feature of a propeller beanie),    {splat}, or the `command key'.  The
-proliferation of terms for    this creature may illustrate one subtle
-peril of iconic    interfaces.
+feature of a propeller beanie),    {splat}, or (officially, in Mac
+documentation) the `command    key'.  The proliferation of terms for
+this creature may illustrate    one subtle peril of iconic interfaces.
 
    Many people have been mystified by the cloverleaf-like symbol that
 appears on the feature key.  Its oldest name is `cross of St.
@@ -12526,7 +12536,7 @@ could be confused with `ICE', an acronym for "in-circuit    emulator".
 Experiment) in 1994. ICE is a consortium to promote uniform
 international access to strong cryptography.
 
-   :ID10T error: I-D-ten-T er'*r Synonym for {PEBKAC},    e.g. "The
+   :ID10T error: /I-D-ten-T er'*r/ Synonym for {PEBKAC},    e.g. "The
 user is being an idiot".  Tech-support people passing a    problem
 report to someone higher up the food chain (and presumably    better
 equipped to dealk with idiots) may ask the user to convey    that there
@@ -14836,7 +14846,8 @@ a few common signatures:
           Cambridge University (England).
 
     shme
-          Berkeley, GeoWorks, Ingres.  Pronounced /shme/ with a short e.
+          Berkeley, GeoWorks, Ingres.  Pronounced /shme/ with a short
+          /e/.
 
     spam
           {Python} programmers.
@@ -17118,9 +17129,9 @@ in the legal sense but travels under various    copyrights granting
 reproduction and use rights to anyone who can    {snarf} a copy.  See
 {copyleft}.
 
-   :PDL: /P-D-L/, pid'l, /p*d'l/ or /puhd'l/     1. n. `Program Design
-Language'.  Any of a large class of formal    and profoundly useless
-pseudo-languages in which {management}    forces one to design
+   :PDL: /P-D-L/, /pid'l/, /p*d'l/ or /puhd'l/     1. n. `Program
+Design Language'.  Any of a large class of formal    and profoundly
+useless pseudo-languages in which {management}    forces one to design
 programs.  Too often, management expects PDL    descriptions to be
 maintained in parallel with the code, imposing    massive overhead to
 little or no benefit.  See also {{flowchart}}.     2. v. To design
@@ -17507,7 +17518,7 @@ may refer to a different pattern of similar    origin.  Though the term
 as coined at PARC refers to the result of    an error, some of the {X}
 demos induce plaid-screen effects    deliberately as a {display hack}.
 
-   :plain-ASCII: // playn-as'kee Syn. {flat-ASCII}.
+   :plain-ASCII: /playn-as'kee/ Syn. {flat-ASCII}.
 
    :plan file: n.  [Unix] On systems that support {finger}, the
 `.plan' file in a user's home directory is displayed when the user
@@ -18058,7 +18069,7 @@ wire}, and {red wire}.
 
    :push:  [from the operation that puts the current information    on
 a stack, and the fact that procedure return addresses are saved    on a
-stack] (Also PUSH /push/ or PUSHJ push'J, the latter    based on the
+stack] (Also PUSH /push/ or PUSHJ /push'J/, the latter    based on the
 PDP-10 procedure call instruction.) 1. To put    something onto a
 {stack} or {PDL}.  If one says that    something has been pushed onto
 one's stack, it means that the    Damoclean list of things hanging over
@@ -18173,7 +18184,7 @@ for byte quantities; the words `meg' and `gig' are nouns that may
      prefix   decimal   binary       pronunciation
      kilo-       k      K, KB,       /kay/
      mega-       M      M, MB, meg   /meg/
-     giga-       G      G, GB, gig   /gig/,jig
+     giga-       G      G, GB, gig   /gig/,/jig/
 
 Confusingly, hackers often use K or M as though they were suffix or
 numeric multipliers rather than a prefix; thus "2K dollars", "2M    of
@@ -18807,9 +18818,9 @@ doctrines and but one ritual: whenever    the worshipper noted that a
 digital clock read 11:08, he or she    would recite the phrase "It is
 11:08; ABS, ALPHABETIC, ARCSIN,    ARCCOS, ARCTAN."  The last five
 words were the first five    functions in the appropriate chapter of
-the Algol manual; note the    special pronunciations /obz/ and ark'sin
-rather than the more    common /ahbz/ and ark'si:n.  Using an alarm
-clock to warn of    11:08's arrival was {considered harmful}.
+the Algol manual; note the    special pronunciations /obz/ and
+/ark'sin/ rather than the more    common /ahbz/ and /ark'si:n/.  Using
+an alarm clock to warn of    11:08's arrival was {considered harmful}.
 
    :religious issues: n.  Questions which seemingly cannot be    raised
 without touching off {holy wars}, such as "What is the    best
